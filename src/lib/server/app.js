@@ -2,7 +2,7 @@ import appRootPath from "app-root-path";
 import path from 'node:path';
 import fs from 'node:fs';
 import { loadData, prepareGraphModelForRendering, transformDataToGraph } from "$lib/server/main.js";
-import { env as privateEnvVars } from '$env/dynamic/private';
+import { env as privateEnvVars } from '$env/static/private';
 import Graph from "graphology";
 
 const DEVELOPMENT_MODE = privateEnvVars.NODE_ENV === 'development' || privateEnvVars.DEV_MODE === 'true';
