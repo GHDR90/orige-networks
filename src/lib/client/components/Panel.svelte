@@ -1,10 +1,12 @@
 <script>
     let {
         header,
+        isCollapsible = true,
+        startCollapsed = true,
         children
     } = $props();
 
-    let isCollapsed = $state(true);
+    let isCollapsed = $state(startCollapsed);
 
     function toggleCollapse() {
         isCollapsed = !isCollapsed;
@@ -14,7 +16,9 @@
 <div class="panel">
     <div class="panel-header">
         <h2>{header}</h2>
-        <button onclick={toggleCollapse}>{isCollapsed ? 'Show' : 'Hide'}</button>
+        {#if isCollapsible}
+            <button onclick={toggleCollapse}>{isCollapsed ? 'Show' : 'Hide'}</button>
+        {/if}
     </div>
     <div
             class="panel-content"

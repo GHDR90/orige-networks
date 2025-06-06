@@ -14,7 +14,7 @@ const JSON_FILE_PATH = path.join(APP_DATA_DIR, 'references.json');
 
 let entries = loadData(JSON_FILE_PATH);
 
-let { nodes, edges, data } = transformDataToGraph(entries);
+let { nodes, edges, facets } = transformDataToGraph(entries);
 
 let graph;
 
@@ -36,5 +36,6 @@ if (DEVELOPMENT_MODE) {
     graph = prepareGraphModelForRendering(nodes, edges);
 }
 
+let nodeIDs = new Set(graph.nodes())
 
-export { graph, data }
+export { graph, facets, nodeIDs }

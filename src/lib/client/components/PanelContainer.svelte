@@ -1,27 +1,27 @@
 <script>
-    import Panel from "$lib/client/Panel.svelte";
-    import FilterList from "$lib/client/FilterList.svelte";
+    import Panel from "$lib/client/components/Panel.svelte";
+    import FilterList from "$lib/client/components/FilterList.svelte";
     import { getContext } from "svelte";
     import { CONTEXT } from "$lib/utils/constants.js";
 
-    let availableData = getContext(CONTEXT.AVAILABLE_DATA);
+    let facets = getContext(CONTEXT.FACETS);
     let graphState = getContext(CONTEXT.GRAPH_STATE);
 
     let queryStr = graphState.query.queryStr;
     
 </script>
 <div class="panel-container">
-    <Panel header="Search">
+    <Panel header="Search" startCollapsed={false}>
         <input type="text" bind:value={queryStr}>
         <button onclick={() => graphState.query.queryStr = queryStr}>Search</button>
     </Panel>
 
     <Panel header="Works">
-        <FilterList options={availableData.works}/>
+        <FilterList facetOptions={facets.works}/>
     </Panel>
 
     <Panel header="Doctrines">
-        <FilterList options={availableData.doctrines}/>
+        <FilterList facetOptions={facets.doctrines}/>
     </Panel>
 
     <Panel header="Referenced works">

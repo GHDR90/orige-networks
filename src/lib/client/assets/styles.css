@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --light-blue: #76b5c5; /* var(--light-blue, #76b5c5) */
+    --dark-blue: #2f626f;
+    --light-brown: #eab676; /* https://mdigi.tools/darken-color/#eab676 */
+    --dark-brown: #995f17;
+}
+
+a {
+    color: var(--dark-blue);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--light-blue)
+}

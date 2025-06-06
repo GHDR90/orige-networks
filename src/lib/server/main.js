@@ -4,32 +4,6 @@ import random from 'graphology-layout/random';
 import Graph from "graphology";
 
 /**
- * @typedef Entry
- * @prop {string} work
- * @prop {string} reference
- * @prop {string[]} quotations
- * @prop {string[]} doctrines
- * @prop {string[]} relatedQuotations
- * @prop {{ created: number, edited: number }} _meta
- * @prop {number} id
- */
-
-/**
- * @typedef GraphNode
- * @prop {string|number} id
- * @prop {"main"|"reference"} type
- * @prop {string} color
- * @prop {object?} data
- */
-
-/**
- * @typedef GraphEdge
- * @prop {string|number} fromID
- * @prop {string|number} toID
- * @prop {"quotation"|"relatedQuotation"} type
- */
-
-/**
  * Main data loader function
  * @param {string} filePath
  * @return {Entry[]}
@@ -49,12 +23,12 @@ export function loadData(filePath) {
 /**
  * Transforms the original data into nodes and edges for the graph
  * @param {Entry[]} entries
- * @return {{ nodes: object[], edges: object[], data: object }}
+ * @return {{ nodes: GraphNode[], edges: GraphEdge[], facets: { works: object[] } }}
  */
 export function transformDataToGraph(entries) {
     let nodes = [];
     let edges = [];
-    let data = {
+    let facets = {
         works: new Map(),
         doctrines: new Map(),
         referencedWorks: new Map()
@@ -66,10 +40,10 @@ export function transformDataToGraph(entries) {
         let mainNode = createNode(entry.id, entry, 'main');
         nodes.push(mainNode);
 
-        incrementMapByKey(data.works, entry.work)
+        incrementMapByKey(facets.works, entry.work)
 
         for (let doctrine of entry.doctrines) {
-            incrementMapByKey(data.doctrines, doctrine);
+            incrementMapByKey(facets.doctrines, doctrine);
         }
 
         for (let quotation of entry.quotations) {
@@ -99,9 +73,9 @@ export function transformDataToGraph(entries) {
     return {
         nodes,
         edges,
-        data: {
-            works: transformMapToSortedArray(data.works),
-            doctrines: transformMapToSortedArray(data.doctrines)
+        facets: {
+            works: transformMapToSortedArray(facets.works),
+            doctrines: transformMapToSortedArray(facets.doctrines)
         }
     };
 }
@@ -142,6 +116,13 @@ function createNode(id, data, type) {
     }
 }
 
+/**
+ * Creates a new edge
+ * @param {string|number} fromID
+ * @param {string|number} toID
+ * @param {string} type
+ * @return {GraphEdge}
+ */
 function createEdge(fromID, toID, type) {
     return {
         fromID,

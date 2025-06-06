@@ -1,17 +1,19 @@
 <script>
     let {
-        options
+        facetOptions
     } = $props();
 
     let limit = $state(10);
 
     let displayOptions = $derived.by(() => {
         let res = [];
-        for (let i = 0; i < Math.min(options.length, limit); i++) {
-            res.push(options[i]);
+        for (let i = 0; i < Math.min(facetOptions.length, limit); i++) {
+            res.push(facetOptions[i]);
         }
         return res;
     })
+
+    function applyFilter() {}
 </script>
 
 <div>
@@ -22,7 +24,7 @@
                 <span class="text-count">{opt.count}</span>
             </div>
         {/each}
-    {#if options.length > limit}
+    {#if facetOptions.length > limit}
         <button onclick={() => {limit += 5}}>Show more options</button>
     {/if}
 </div>

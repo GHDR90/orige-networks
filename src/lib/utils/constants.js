@@ -1,5 +1,5 @@
 export const CONTEXT = {
   GRAPH_STATE: 'graphState',
-  AVAILABLE_DATA: 'availableData',
+  FACETS: 'facets',
   RESOLVE_URL: 'resolveURL'
 };

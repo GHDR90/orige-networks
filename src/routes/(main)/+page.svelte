@@ -3,17 +3,24 @@
 
     import { getContext, onMount, setContext } from "svelte";
     import { browser } from "$app/environment";
-    import PanelContainer from "$lib/client/PanelContainer.svelte";
+    import PanelContainer from "$lib/client/components/PanelContainer.svelte";
     import { CONTEXT } from "$lib/utils/constants.js";
+    import Panel from "$lib/client/components/Panel.svelte";
 
     let { data } = $props();
 
     let exportedGraph = data.exportedGraph;
     let graph = Graph.from(exportedGraph);
 
-    let availableData = data.availableData;
+    let facets = data.facets;
+    let nodeIDS = data.nodeIDs;
 
-    // $inspect(availableData);
+    let meta = {
+        totalNodes: graph.nodes().length,
+        totalEdges: graph.edges().length
+    };
+
+    $inspect(facets);
 
     /** @type {GraphState} */
     let graphState = $state({
@@ -22,16 +29,18 @@
             queryStr: "",
             filters: []
         },
-        filteredNodeIDs: []
+        renderedNodeIDs: new Set()
     });
 
     setContext(CONTEXT.GRAPH_STATE, graphState);
-    setContext(CONTEXT.AVAILABLE_DATA, availableData)
+    setContext(CONTEXT.FACETS, facets)
 
     let resolveURL = getContext(CONTEXT.RESOLVE_URL);
 
     /** @type {HTMLDivElement} */
     let container;
+
+    /** @type {import('sigma').Sigma} */
     let sigma;
 
     onMount( async () => {
@@ -40,15 +49,20 @@
             let { Sigma } = await import("sigma");
 
             // Instantiate sigma.js and render the graph
-            const container1 =  document.getElementById("sigma-container");
-            sigma = new Sigma(graph, container1);
+            sigma = new Sigma(graph, container);
+
+            // Adds handler for node clicks
+            sigma.on('clickNode', nodeClickedHandler);
+
+            // Handler for clicking outside the nodes
+            sigma.on('clickStage', stageClickHandler)
         }
     })
 
     $effect(() => {
         graphState;
 
-        console.log($state.snapshot(graphState));
+        // filter by
 
         render();
     })
@@ -71,18 +85,53 @@
         sigma.scheduleRender(); // (https://www.sigmajs.org/docs/advanced/lifecycle#manual-rendering-triggers)
     }
 
+    /**
+     * A handler for click events
+     */
+    function nodeClickedHandler(event) {
+        let nodeID = event.node;
+        graphState.selectedNodeID = nodeID;
 
+        let nodeData = graph.getNodeAttributes(nodeID)?.data;
+        console.log(nodeData);
+    }
+
+    function stageClickHandler(event) {
+        graphState.selectedNodeID = null;
+    }
+
+    function applyFilters(filters) {
+        for (let filter of filters) {
+
+        }
+    }
+
+    function searchByQueryString(queryStr) {
+
+    }
 
 </script>
 
-<h1>Welcome to Orige.net</h1>
-<p>Edges: {graph.edges().length}. Nodes: {graph.nodes().length}</p>
-
-<p>Go to <a href={resolveURL("/about")}>ABOUT</a></p>
 
 <div id="sigma-container" bind:this={container}></div>
 
+{#if graphState.selectedNodeID !== null}
+    <div style="position: absolute; top: 0; right: 0;">
+        <Panel
+                header="Selected node"
+                isCollapsible={false}
+        >
+            <p>{graphState.selectedNodeID}</p>
+
+        </Panel>
+    </div>
+{/if}
+
 <PanelContainer />
+
+<footer id="footer">
+    <p class="italic">Nodes: {meta.totalNodes}. Edges: {meta.totalEdges}.</p>
+</footer>
 
 <style>
     #sigma-container {
@@ -93,5 +142,17 @@
         width: 100vw;
         height: 100vh;
         background-color: white;
+    }
+
+    #footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        font-size: 0.8rem;
+        margin-inline: 10px;
+    }
+
+    .italic {
+        font-style: italic;
     }
 </style>
