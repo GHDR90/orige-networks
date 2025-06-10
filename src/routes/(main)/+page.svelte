@@ -32,6 +32,16 @@
         renderedNodeIDs: new Set()
     });
 
+    let selectedNodeDetails = $derived.by(() => {
+        let nodeID = graphState.selectedNodeID;
+        if (nodeID === null) {
+            return null;
+        }
+        return graph.getNodeAttributes(nodeID).data;
+    });
+
+    $inspect(selectedNodeDetails)
+
     setContext(CONTEXT.GRAPH_STATE, graphState);
     setContext(CONTEXT.FACETS, facets)
 
@@ -82,6 +92,9 @@
             return node;
         })
 
+        // Gode eksempler her på brug af reducers til hhv. highlight og mattering
+        // https://github.com/jacomyal/sigma.js/blob/main/packages/storybook/stories/1-core-features/4-use-reducers/index.ts
+
         sigma.scheduleRender(); // (https://www.sigmajs.org/docs/advanced/lifecycle#manual-rendering-triggers)
     }
 
@@ -90,10 +103,7 @@
      */
     function nodeClickedHandler(event) {
         let nodeID = event.node;
-        graphState.selectedNodeID = nodeID;
-
-        let nodeData = graph.getNodeAttributes(nodeID)?.data;
-        console.log(nodeData);
+        graphState.selectedNodeID = graph.getNodeAttribute(nodeID, 'data') === null ? null : nodeID;
     }
 
     function stageClickHandler(event) {
@@ -115,14 +125,36 @@
 
 <div id="sigma-container" bind:this={container}></div>
 
-{#if graphState.selectedNodeID !== null}
-    <div style="position: absolute; top: 0; right: 0;">
+{#if graphState.selectedNodeID !== null && selectedNodeDetails !== null}
+    <div id="details-panel">
         <Panel
-                header="Selected node"
+                header={selectedNodeDetails.reference}
                 isCollapsible={false}
         >
-            <p>{graphState.selectedNodeID}</p>
-
+            <div>
+                <p class="details-key">Work</p>
+                <p class="details-value">{selectedNodeDetails?.work ?? ''}</p>
+            </div>
+            <div>
+                <p class="details-key">Reference</p>
+                <p class="details-value">{selectedNodeDetails.reference}</p>
+            </div>
+            <div>
+                <p class="details-key">ID</p>
+                <p class="details-value">{graphState.selectedNodeID}</p>
+            </div>
+            <div>
+                <p class="details-key">Doctrines</p>
+                <p class="details-value">{selectedNodeDetails.doctrines.join(', ')}</p>
+            </div>
+            <div>
+                <p class="details-key">Quotations</p>
+                <p class="details-value">{selectedNodeDetails.quotations.join(', ')}</p>
+            </div>
+            <div>
+                <p class="details-key">Related quotations</p>
+                <p class="details-value">{selectedNodeDetails.relatedQuotations.length > 0 ? selectedNodeDetails.relatedQuotations.join(', ') : 'None'}</p>
+            </div>
         </Panel>
     </div>
 {/if}
@@ -154,5 +186,24 @@
 
     .italic {
         font-style: italic;
+    }
+
+    #details-panel {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: 15px;
+        max-width: 30vw;
+    }
+
+    .details-key {
+        font-stretch: semi-expanded;
+        font-weight: bold;
+        margin-bottom: 0;
+    }
+
+    .details-value {
+        font-size: 0.8em;
+        margin-top: 0;
     }
 </style>
