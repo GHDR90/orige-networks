@@ -6,7 +6,7 @@
         children
     } = $props();
 
-    let isCollapsed = $state(startCollapsed);
+    let isCollapsed = $state(isCollapsible && startCollapsed);
 
     function toggleCollapse() {
         isCollapsed = !isCollapsed;
@@ -32,7 +32,7 @@
     .panel {
         background-color: #eeeee4dd;
         border-radius: 5px;
-        padding: 5px;
+        padding: 0.5em;
         border: 1px solid #21130d;
     }
 
@@ -44,10 +44,6 @@
         height: fit-content;
         justify-self: end;
         margin-left: auto;
-    }
-
-    .panel-header > h2 {
-        margin: 0.5em;
     }
 
     .panel-content.collapsed {
