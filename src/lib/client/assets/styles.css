@@ -17,3 +17,12 @@ a {
 a:hover {
     color: var(--light-blue)
 }
+
+.small {
+    font-size: 0.7em;
+}
+
+.collapse-margin-vertical {
+    margin-bottom: 0;
+    margin-top: 0;
+}
