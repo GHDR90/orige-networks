@@ -180,3 +180,72 @@ A quotation is a statement that maintains a degree of "otherness," indicating it
 168. Violence: References to all forms of violence, whether real or symbolic.
 
 ## Biblical references
+
+| **Biblical Books**         | **Abbreviations** |
+|----------------------------|-------------------|
+| Genesis                    | Gen               |
+| Exodus                     | Exod              |
+| Leviticus                  | Lev               |
+| Numbers                    | Num               |
+| Deuteronomy                | Deut              |
+| Joshua                     | Josh              |
+| Judges                     | Judg              |
+| Ruth                       | Ruth              |
+| 1--2 Samuel                | 1--2 Sam          |
+| 1--2 Kings                 | 1--2 Kgs          |
+| 1--2 Chronicles            | 1--2 Chr          |
+| Ezra                       | Ezra              |
+| Nehemiah                   | Neh               |
+| Esther                     | Esth              |
+| Job                        | Job               |
+| Psalms                     | Ps                |
+| Proverbs                   | Prov              |
+| Ecclesiastes (or Qoheleth) | Eccl              |
+| Song of Songs              | Song              |
+| Isaia                      | Is                |
+| Jeremiah                   | Jer               |
+| Lamentations               | Lam               |
+| Ezekiel                    | Ezek              |
+| Daniel                     | Dan               |
+| Hosea                      | Hos               |
+| Joel                       | Joel              |
+| Amos                       | Amos              |
+| Obadiah                    | Obad              |
+| Jonah                      | Jonah             |
+| Micah                      | Mic               |
+| Nahum                      | Nah               |
+| Habakkuk                   | Hab               |
+| Zephaniah                  | Zeph              |
+| Haggai                     | Hag               |
+| Zechariah                  | Zech              |
+| Malachi                    | Mal               |
+| Tobit                      | Tob               |
+| Judith                     | Jdt               |
+| Wisdom of Solomon          | Wis               |
+| Sirach/Ecclesiasticus      | Sir               |
+| Baruch                     | Bar               |
+| Susanna                    | Sus               |
+| 1--2 Maccabees             | 1--2 Macc         |
+| 1-2 Esdras                 | 1-2 Esd           |
+| Matthew                    | Matt              |
+| Mark                       | Mark              |
+| Luke                       | Luke              |
+| John                       | John              |
+| Acts                       | Acts              |
+| Romans                     | Rom               |
+| 1--2 Corinthians           | 1--2 Cor          |
+| Galatians                  | Gal               |
+| Ephesians                  | Eph               |
+| Philippians                | Phil              |
+| Colossians                 | Col               |
+| 1--2 Thessalonians         | 1--2 Thess        |
+| 1--2 Timothy               | 1--2 Tim          |
+| Titus                      | Titus             |
+| Philemon                   | Phlm              |
+| Hebrews                    | Heb               |
+| James                      | Jas               |
+| 1--2 Peter                 | 1--2 Pet          |
+| 1--2--3 John               | 1--2--3 John      |
+| Jude                       | Jude              |
+| Revelation                 | Rev               |
+                       
