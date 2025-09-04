@@ -7,9 +7,13 @@
 /**
  * @typedef GraphState
  * @prop {?string} selectedNodeID
- * @prop {object} query
- * @prop {string} query.queryStr
- * @prop {Filter[]} query.filters
+ * @prop {Set<string>} renderedNodeIDs
+ */
+
+/**
+ * @typedef QueryState
+ * @prop {string} queryStr
+ * @prop {Filter[]} filters
  */
 
 /**
