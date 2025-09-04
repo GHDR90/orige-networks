@@ -22,6 +22,9 @@
  <div class="nav-item">
   <a href={resolveURL("/")}>Orige.net</a>
  </div>
+    <div class="nav-item">
+        <a href={resolveURL("/glossaries")}>Glossaries</a>
+    </div>
  <div class="nav-item">
   <a href={resolveURL("/about")}>About</a>
  </div>
