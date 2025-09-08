@@ -2,10 +2,21 @@ import Graph from "graphology";
 import { GraphView } from "$lib/client/GraphView.js";
 
 class GraphModel {
+    /** @type {Graph} */
     graph;
+
+    /** @type {GraphView} */
     #graphView;
+
+    /** @type {FacetListObject} */
     #facets;
 
+    /**
+     * Creates a new graph model instance
+     * @param {NodeObject[]} nodes
+     * @param {EdgeObject[]} edges
+     * @param {FacetListObject} facets
+     */
     constructor(nodes, edges, facets) {
         this.graph = new Graph({ multi: true, type: "directed" });
         this.#graphView = new GraphView(this.graph);
@@ -30,6 +41,9 @@ class GraphModel {
         this.#facets = facets;
     }
 
+    /**
+     * Inits the model by applying transformations based on final graph properties
+     */
     init() {
         this.graph.forEachNode((key, attr) => {
             attr.size = this.#graphView.getNodeSizeFromType(key, attr.data.type)
@@ -38,6 +52,10 @@ class GraphModel {
         this.#graphView.init();
     }
 
+    /**
+     * Returns available facets
+     * @return {FacetListObject}
+     */
     getFacets() {
         return this.#facets;
     }
