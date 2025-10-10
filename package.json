@@ -26,6 +26,8 @@
 		"graphology": "^0.26.0",
 		"graphology-layout": "^0.6.1",
 		"graphology-layout-forceatlas2": "^0.10.1",
+		"graphology-metrics": "^2.4.0",
+		"graphology-traversal": "^0.3.1",
 		"sigma": "^3.0.1"
 	}
 }
