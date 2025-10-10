@@ -17,7 +17,7 @@ import {
 /**
  * @typedef NodeObject
  * @prop {string|number} id
- * @prop {work} id
+ * @prop {string} work
  * @prop {string} reference
  * @prop {"main"|"quotedWork"} type
  */

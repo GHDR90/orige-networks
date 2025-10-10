@@ -24,7 +24,8 @@ const edges = results.edges;
 const facets = results.facets;
 const errors = results.errors;
 
-if (errors.length > 0) {
+if (DEVELOPMENT_MODE && errors.length > 0) {
+    // TODO: Flyt til env
     const ERROR_FILE_PATH = "/Users/au335497/Temp/orige-net/errors.json";
     saveJSONData(ERROR_FILE_PATH, errors);
 }
@@ -33,6 +34,7 @@ let graphModel;
 
 // DEV MODE
 if (DEVELOPMENT_MODE && !FORCE_RENDER) {
+    // TODO: Flyt til env
     const GRAPH_FILE_PATH = "/Users/au335497/Temp/orige-net/graph.json"; // Change in prod.
 
     try {
@@ -40,7 +42,7 @@ if (DEVELOPMENT_MODE && !FORCE_RENDER) {
             graphModel = Graph.from(loadJSONData(GRAPH_FILE_PATH));
         } else {
             graphModel = new GraphModel(nodes, edges, facets);
-            graphModel.init();
+            graphModel.init({ calculateCentrality: 'degree' });
 
             saveJSONData(GRAPH_FILE_PATH, graphModel.export())
         }
@@ -50,7 +52,7 @@ if (DEVELOPMENT_MODE && !FORCE_RENDER) {
 } else {
     // PRODUCTION
     graphModel = new GraphModel(nodes, edges, facets);
-    graphModel.init();
+    graphModel.init({ calculateCentrality: 'degree' });
 }
 
 export { graphModel }
