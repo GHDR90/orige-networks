@@ -15,7 +15,9 @@
 
 <div class="panel">
     <div class="panel-header">
+        {#if header.length > 0}
         <h2>{header}</h2>
+        {/if}
         {#if isCollapsible}
             <button onclick={toggleCollapse}>{isCollapsed ? 'Show' : 'Hide'}</button>
         {/if}
@@ -38,6 +40,17 @@
 
     .panel-header {
         display: flex;
+        align-items: baseline;
+        gap: 1em;
+    }
+
+    .panel-header > * {
+        margin-block: 0;
+    }
+
+    .panel-header > h2 {
+        font-weight: normal;
+        /* font-size: 0.8em; */
     }
 
     .panel-header > button {

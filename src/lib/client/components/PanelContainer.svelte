@@ -7,14 +7,13 @@
     let facets = getContext(CONTEXT.FACETS);
     let queryState = getContext(CONTEXT.QUERY_STATE);
 
-    let queryStr = queryState.queryStr;
+    let queryString = queryState.queryString;
     
 </script>
 <div class="panel-container">
     <Panel header="Search" startCollapsed={false}>
         <p class="small collapse-margin-vertical"> Search by work reference name or quotation, e.g., "Hum.Jes.Nav." or "Luke 13"</p>
-        <input type="text" bind:value={queryStr}>
-        <button onclick={() => queryState.queryStr = queryStr}>Search</button>
+        <input type="text" bind:value={queryString} oninput={() => queryState.queryString = queryString}>
     </Panel>
 
     <Panel header="Works">
@@ -34,7 +33,7 @@
     <Panel header="Referenced works">
         <FilterList
             facetOptions={facets.quotedReferences}
-            type="references"
+            type="reference"
         />
     </Panel>
 
