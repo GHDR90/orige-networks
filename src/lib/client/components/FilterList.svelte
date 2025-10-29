@@ -2,17 +2,27 @@
     import { getContext } from "svelte";
     import { CONTEXT } from "$lib/utils/constants.js";
     import { stringContainsIgnoreCase } from "$lib/utils/helpers.js";
+    import { fly } from "svelte/transition";
 
     let {
         facetOptions,
         type
     } = $props();
 
-    let limit = $state(10);
+    /**
+     * @typedef Filter
+     * @prop {"work"|"doctrine"|"reference"} type
+     * @prop {string} value
+     */
+
+    // let limit = $state(100);
 
     let filterSearchValue = $state('');
     let filterSearchActive = $derived(filterSearchValue !== '');
 
+    /**
+     * @type {{ key: string, count: number, isApplied: boolean }[]}
+     */
     let displayOptions = $derived.by(() => {
         let res = [];
         let options;
@@ -23,7 +33,8 @@
             options = facetOptions;
         }
 
-        for (let i = 0; i < Math.min(options.length, limit); i++) {
+        for (let i = 0; i < options.length; i++) {
+            options[i].isApplied = queryState.filters.some(f => f.type === type && f.value === options[i].key);
             res.push(options[i]);
         }
         return res;
@@ -31,6 +42,10 @@
 
     let queryState = getContext(CONTEXT.QUERY_STATE);
 
+    /**
+     * Helper function that toggles filters
+     * @param {string} key
+     */
     function toggleFilter(key) {
         /** @type Filter */ let filter = {
             type,
@@ -39,14 +54,9 @@
 
         if (hasFilter(queryState.filters, filter)) {
             removeFilter(queryState.filters, filter);
-            console.log('removing filter: ' + filter.value);
         } else {
             addFilter(queryState.filters, filter);
-            console.log('adding filter: ' + filter.value);
         }
-
-
-        // console.log($state.snapshot(queryState.filters));
     }
 
     /**
@@ -74,41 +84,54 @@
      * Whether the filter is in the array
      * @param {Filter[]} arr
      * @param {Filter} filter
-     * @return {*}
+     * @return {boolean}
      */
     function hasFilter(arr, filter) {
         return arr.some(el => {
             return el.type === filter.type && el.value === filter.value;
         });
     }
-
 </script>
 
-<div>
-    <input type="text" id={`filter-${type}-text`} placeholder="Search..." bind:value={filterSearchValue}>
+<div transition:fly={{ y: 50, duration: 200 }}>
+    <input class="fill" type="text" id={`filter-${type}-text`} placeholder="Search..." bind:value={filterSearchValue}>
     <label for={`filter-${type}-text`} aria-hidden="true" class="support">Search</label>
 
+    <div class="filter-options">
     {#each displayOptions as opt (opt.key)}
         <div class="filter-element">
             <input
                     type="checkbox"
                     id={`${type}-${opt.key}`}
-                    checked={queryState.filters.some(f => f.type === type && f.value === opt.key)}
+                    checked={opt.isApplied}
                     onchange={() => {toggleFilter(opt.key)}}
             />
             <label for={`${type}-${opt.key}`}>{opt.key}</label>
             <span class="text-count small">{opt.count}</span>
         </div>
     {/each}
+        <!--
     {#if facetOptions.length > limit && !filterSearchActive}
-        <button onclick={() => {limit += 5}}>Show more options</button>
+        <button class="fancy-button" onclick={() => {limit += 5}}>Show more options</button>
     {/if}
+    -->
+    </div>
 </div>
 
 <style>
+    .filter-options {
+        max-height: 10em;
+        overflow: scroll;
+    }
+
     .filter-element {
         display: flex;
+        align-items: baseline;
         gap: 10px;
+    }
+
+    .filter-element > label {
+        max-width: 80%;
     }
 
     .text-count {
