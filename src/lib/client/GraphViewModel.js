@@ -41,9 +41,10 @@ class GraphViewModel {
      * Performs a search in the graph data
      * @param {string} query - A query string
      * @param {Filter[]} filters - A list of applied filters
+     * @param {{ work: string, doctrine: string, reference: string }} filterModes
      * @return {{ resultSet: Set<string> }}
      */
-    search(query, filters) {
+    search(query, filters, filterModes) {
         let trimmedQueryStr = query.trim();
 
         let results = new Set(this.graph.nodes());
@@ -57,7 +58,7 @@ class GraphViewModel {
 
         if (filters.length > 0) {
             let filterResults = new Set(this.graph.filterNodes((key, attributes) => {
-                return this.#nodeMatchesFilterList(key, filters);
+                return this.#nodeMatchesFilterList(key, filters, filterModes);
             }));
             results = results.intersection(filterResults);
         }
@@ -90,18 +91,77 @@ class GraphViewModel {
      * Whether a node matches one or more filters in the list
      * @param {string} nodeID
      * @param {Filter[]} filters
+     * @param {{ work: string, doctrine: string, reference: string }} filterModes
      * @return {boolean}
      */
-    #nodeMatchesFilterList(nodeID, filters) {
+    #nodeMatchesFilterList(nodeID, filters, filterModes) {
         let data = this.graph.getNodeAttribute(nodeID, 'data');
 
+        let match = true;
+
+        const workFilters = filters.filter(f => f.type === 'work');
+        if (workFilters.length > 0) {
+            const mode = filterModes.work;
+            if (mode === 'any') {
+                match = match && this.#nodeMatchesAnyFilterInList(nodeID, data, workFilters);
+            } else {
+                match = match && this.#nodeMatchesAllFiltersInList(nodeID, data, workFilters);
+            }
+        }
+
+        const doctrineFilters = filters.filter(f => f.type === 'doctrine');
+        if (doctrineFilters.length > 0) {
+            const mode = filterModes.doctrine;
+            if (mode === 'any') {
+                match = match && this.#nodeMatchesAnyFilterInList(nodeID, data, doctrineFilters);
+            } else {
+                match = match && this.#nodeMatchesAllFiltersInList(nodeID, data, doctrineFilters);
+            }
+        }
+
+        const referenceFilters = filters.filter(f => f.type === 'reference');
+        if (referenceFilters.length > 0) {
+            const mode = filterModes.reference;
+            if (mode === 'any') {
+                match = match && this.#nodeMatchesAnyFilterInList(nodeID, data, referenceFilters);
+            } else {
+                match = match && this.#nodeMatchesAllFiltersInList(nodeID, data, referenceFilters);
+            }
+        }
+
+        return match;
+    }
+
+    /**
+     * Whether a node matches any of the filters in the provided list
+     * @param {string} nodeID
+     * @param {Entry} data
+     * @param {Filter[]} filters
+     * @return {boolean}
+     */
+    #nodeMatchesAnyFilterInList(nodeID, data, filters) {
         for (let filter of filters) {
             if (this.#nodeMatchesFilter(nodeID, data, filter)) {
                 return true;
             }
         }
-
         return false;
+    }
+
+    /**
+     * Whether a node matches all of the filters in the provided list
+     * @param {string} nodeID
+     * @param {Entry} data
+     * @param {Filter[]} filters
+     * @return {boolean}
+     */
+    #nodeMatchesAllFiltersInList(nodeID, data, filters) {
+        for (let filter of filters) {
+            if (!this.#nodeMatchesFilter(nodeID, data, filter)) {
+                return false;
+            }
+        }
+        return true;
     }
 
     /**
