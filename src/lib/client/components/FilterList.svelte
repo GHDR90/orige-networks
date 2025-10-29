@@ -2,7 +2,7 @@
     import { getContext } from "svelte";
     import { CONTEXT } from "$lib/utils/constants.js";
     import { stringContainsIgnoreCase } from "$lib/utils/helpers.js";
-    import { fly } from "svelte/transition";
+    import { slide } from "svelte/transition";
 
     let {
         facetOptions,
@@ -91,7 +91,7 @@
     }
 </script>
 
-<div transition:fly={{ y: 50, duration: 200 }}>
+<div transition:slide={{ axis: "y", duration: 150, delay: 0 }}>
     <input class="fill" type="text" id={`filter-${type}-text`} placeholder="Search..." bind:value={filterSearchValue}>
     <label for={`filter-${type}-text`} aria-hidden="true" class="support">Search</label>
 
