@@ -15,8 +15,6 @@
      * @prop {string} value
      */
 
-    // let limit = $state(100);
-
     let filterSearchValue = $state('');
     let filterSearchActive = $derived(filterSearchValue !== '');
 
