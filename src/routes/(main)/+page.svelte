@@ -223,10 +223,13 @@
      * @return {Set<string>} - A set of string-based IDs
      */
     function applySearch() {
-        graphViewState.currentSelection = null;
 
         let { queryString, filters } = $state.snapshot(queryState);
         let results = graphViewModel.search(queryString, filters)
+
+        if (graphViewState.currentSelection && !results.resultSet.has(graphViewState.currentSelection)) {
+            graphViewState.currentSelection = null;
+        }
 
         return results.resultSet;
     }
