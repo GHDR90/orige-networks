@@ -47,6 +47,9 @@ import {
  * @prop {Facet[]} quotedReferences
  * */
 
+/**
+ * A class for preprocessing array-based data (from JSON) into node and edge objects
+ */
 class Preprocessor {
     /** @type {Map<string|number, NodeObject>} */
     #nodes = new Map();
