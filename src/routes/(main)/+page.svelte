@@ -1,6 +1,6 @@
 <script>
 
-    import { getContext, onMount, setContext, untrack } from "svelte";
+    import { onMount, setContext, untrack } from "svelte";
     import { browser } from "$app/environment";
     import { CONTEXT } from "$lib/utils/constants.js";
 
@@ -28,6 +28,7 @@
      * @typedef QueryState
      * @prop {string} queryString
      * @prop {Filter[]} filters
+     * @prop {{ work: string, doctrine: string, reference: string }} filterModes
      */
 
     /**
@@ -35,7 +36,12 @@
      */
     let queryState = $state({
         queryString: "",
-        filters: []
+        filters: [],
+        filterModes: {
+            work: 'any',
+            doctrine: 'any',
+            reference: 'any'
+        }
     });
 
     /**
@@ -72,7 +78,7 @@
             return header;
         }
 
-        return `${header} (${count} ${count === 1 ? "filter" : "filters"} selected)`;
+        return `${header} (${count} selected)`;
     }
 
     /**
@@ -160,6 +166,9 @@
     $effect(() => {
         queryState.queryString;
         queryState.filters.length;
+        queryState.filterModes.work;
+        queryState.filterModes.doctrine;
+        queryState.filterModes.reference;
         graphViewState.showHiddenNeighbors;
 
         untrack(() => {
@@ -224,8 +233,8 @@
      */
     function applySearch() {
 
-        let { queryString, filters } = $state.snapshot(queryState);
-        let results = graphViewModel.search(queryString, filters)
+        let { queryString, filters, filterModes } = $state.snapshot(queryState);
+        let results = graphViewModel.search(queryString, filters, filterModes)
 
         if (graphViewState.currentSelection && !results.resultSet.has(graphViewState.currentSelection)) {
             graphViewState.currentSelection = null;
@@ -402,7 +411,14 @@
 
     <hr />
 
-    <Panel header={generatePanelHeaderWithFilterCount("Works", "work")}>
+    <Panel
+            header={generatePanelHeaderWithFilterCount("Works", "work")}
+            isFilterPanel={true}
+            filterOptions={{
+                filterType: "work",
+                filterModes: ['any']
+            }}
+    >
         <FilterList
                 facetOptions={facets.works}
                 type="work"
@@ -411,7 +427,14 @@
 
     <hr />
 
-    <Panel header={generatePanelHeaderWithFilterCount("Doctrines", "doctrine")}>
+    <Panel
+            header={generatePanelHeaderWithFilterCount("Doctrines", "doctrine")}
+            isFilterPanel={true}
+            filterOptions={{
+                filterType: "doctrine",
+                filterModes: ['any', 'all']
+            }}
+    >
         <FilterList
                 facetOptions={facets.doctrines}
                 type="doctrine"
@@ -420,7 +443,14 @@
 
     <hr />
 
-    <Panel header={generatePanelHeaderWithFilterCount("Referenced works", "reference")}>
+    <Panel
+            header={generatePanelHeaderWithFilterCount("Biblical works", "reference")}
+            isFilterPanel={true}
+            filterOptions={{
+                filterType: "reference",
+                filterModes: ['any']
+            }}
+    >
         <FilterList
                 facetOptions={facets.quotedReferences}
                 type="reference"
