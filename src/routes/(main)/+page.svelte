@@ -10,7 +10,9 @@
     import Panel from "$lib/client/components/Panel.svelte";
     import FilterList from "$lib/client/components/FilterList.svelte";
 
+    /** @type {import('./$types').PageProps} */
     let { data } = $props();
+
     let graphViewModel = new GraphViewModel(Graph.from(data.serializedGraph), data.allFacets);
 
     /** @type {Set<string>} */
@@ -110,8 +112,6 @@
     setContext(CONTEXT.QUERY_STATE, queryState);
     setContext(CONTEXT.GRAPH_STATE, graphViewState);
     setContext(CONTEXT.FACETS, facets);
-
-    let resolveURL = getContext(CONTEXT.RESOLVE_URL);
 
     /** @type {HTMLDivElement} */
     let container;
