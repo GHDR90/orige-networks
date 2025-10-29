@@ -75,7 +75,15 @@ class GraphViewModel {
      * @return {boolean}
      */
     #nodeMatchesQueryString(str, data) {
-        return data.work?.indexOf(str) !== -1 || data.reference?.indexOf(str) !== -1;
+        let lowerStr = str.toLowerCase();
+
+        if (data.work && data.work.toLowerCase().indexOf(lowerStr) !== -1) {
+            return true;
+        }
+        if (data.reference && data.reference.toLowerCase().indexOf(lowerStr) !== -1) {
+            return true;
+        }
+        return false;
     }
 
     #nodeMatchesFilterList(nodeID, filters) {
