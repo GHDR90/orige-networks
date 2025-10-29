@@ -119,7 +119,7 @@
 <style>
     .filter-options {
         max-height: 10em;
-        overflow: scroll;
+        overflow-y: scroll;
     }
 
     .filter-element {
