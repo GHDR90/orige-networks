@@ -7,6 +7,34 @@
     --dark-blue: #2f626f;
     --light-brown: #eab676; /* https://mdigi.tools/darken-color/#eab676 */
     --dark-brown: #995f17;
+    --panel-color: #eeeee4ef;
+    --small-gap: 0.5rem;
+    --large-gap: 1rem;
+    --main-font-color: #21130d;
+    --faded-font-color: #838181;
+    --drop-shadow-color: #838181dd;
+    --hr-color: #21130d33;
+
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 0.9rem;
+    color: var(--main-font-color);
+}
+
+nav {
+    z-index: 999;
+    display: flex;
+    background-color: #ffffff;
+    width: fit-content;
+    padding: var(--small-gap);
+}
+
+.nav-item {
+    padding-inline: var(--small-gap);
+    border-right: 1px solid var(--dark-brown);
+}
+
+.nav-item:last-child {
+    border: none;
 }
 
 a {
@@ -15,14 +43,178 @@ a {
 }
 
 a:hover {
-    color: var(--light-blue)
+    color: var(--light-blue);
 }
 
+/* utils */
 .small {
     font-size: 0.7em;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.hidden {
+    display: none;
+}
+
+.faded {
+    color: var(--faded-font-color);
+}
+
+.fill {
+    width: 100%;
+}
+
+.bordered {
+    border-radius: var(--small-gap);
+    border: 1px solid #21130d;
 }
 
 .collapse-margin-vertical {
     margin-bottom: 0;
     margin-top: 0;
+}
+
+/* Everything related to panels */
+.panel {
+    padding: var(--small-gap);
+}
+
+.panel-header {
+    display: flex;
+    align-items: baseline;
+    gap: var(--large-gap);
+}
+
+.panel-header > * {
+    margin-block: 0;
+}
+
+.panel-header > h2 {
+    font-weight: normal;
+}
+
+.panel-header > button {
+    height: fit-content;
+    justify-self: end;
+    align-self: start;
+    margin-left: auto;
+}
+
+.fancy-button {
+    border: none;
+    background-color: initial;
+    text-decoration: underline;
+}
+
+.fancy-button:hover {
+    color: var(--light-blue);
+}
+
+.panel-content {
+    margin-top: var(--small-gap);
+}
+
+.panel-content.collapsed {
+    display: none;
+}
+
+/* Everything related to search and filter UI */
+
+#search-filter-panel-container {
+    background-color: var(--panel-color);
+    box-shadow: var(--drop-shadow-color) 1px 1px;
+
+    position: absolute;
+    bottom: var(--small-gap);
+    left: var(--small-gap);
+    width: calc(100vw - var(--small-gap)*2);
+}
+
+#search-filter-panel-container > hr {
+    margin-inline: var(--small-gap);
+    border-bottom: 0;
+    border-color: var(--hr-color);
+    margin-block: 0;
+}
+
+/* Everything related to the details UI */
+
+#details-panel {
+    background-color: var(--panel-color);
+    box-shadow: var(--drop-shadow-color) 1px 1px;
+    max-height: 20vh;
+    overflow: scroll;
+}
+
+.details-key {
+    font-stretch: semi-expanded;
+    font-weight: bold;
+    margin-block: 0;
+}
+
+.details-value {
+    font-size: 0.8em;
+    margin-block: 0;
+}
+
+.details-key ~ .details-value {
+    margin-bottom: var(--small-gap);
+}
+
+/* Everything related to the extra panel UI */
+
+#extra-panel {
+    padding: 0;
+    display: none;
+}
+
+#extra-panel > * {
+    margin: 0;
+}
+
+/* Everything related to options for graph */
+
+#expand-graph-container {
+    background-color: #ffffff;
+    width: fit-content;
+    margin: 0;
+    padding-block: var(--small-gap);
+}
+
+@media (width > 486px) {
+    #details-panel {
+        width: fit-content;
+        max-width: 50vw;
+        max-height: initial;
+        overflow: initial;
+    }
+
+    #extra-panel {
+        display: initial;
+        position: absolute;
+        top: var(--small-gap);
+        right: var(--small-gap);
+    }
+}
+
+@media (width > 768px) {
+    #details-panel {
+        max-width: 40vw;
+    }
+
+    #extra-panel {
+        display: initial;
+        top: initial;
+        bottom: var(--small-gap);
+    }
+
+    #search-filter-panel-container {
+        bottom: var(--large-gap);
+        left: var(--large-gap);
+        width: 40vw;
+    }
+
 }
