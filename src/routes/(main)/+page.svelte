@@ -395,9 +395,14 @@
         {@render info("Doctrines", selectedNodeDetails.doctrines.join(', '))}
 
         {#if selectedNodeDetails.data.type === "main"}
-            {@render info("Biblical quotations", Array.from(selectedNodeDetails.neighbors).join(', '))}
+            {@render info("Biblical quotations", Array.from(selectedNodeDetails.neighbors)
+                .sort((a, b) => a.localeCompare(b))
+                .join(', '))}
         {:else}
-            {@render info("Referencing passages", Array.from(selectedNodeDetails.neighbors).map(nodeID => graphViewModel.getWorkFromNodeID(nodeID)).join(', '))}
+            {@render info("Referencing passages", Array.from(selectedNodeDetails.neighbors)
+                .map(nodeID => graphViewModel.getWorkFromNodeID(nodeID))
+                .sort((a, b) => a.localeCompare(b))
+                .join(', '))}
         {/if}
 
     </Panel>
@@ -460,7 +465,12 @@
 </div>
 
 <div id="extra-panel">
-        <p class="italic">Nodes: {graphViewModel.getMetadataForDataset().totalNodes - graphViewState.hiddenNodes.size} (total: {graphViewModel.getMetadataForDataset().totalNodes}).</p>
+    <p class="italic">
+        Nodes: {graphViewModel.getMetadataForDataset().totalNodes - graphViewState.hiddenNodes.size} (total: {graphViewModel.getMetadataForDataset().totalNodes}).
+    </p>
+    <p>
+        Site developed by <a href="https://chc.au.dk" target="_blank"><br />Center for Humanities Computing</a>
+    </p>
 </div>
 
 <style>
