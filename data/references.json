@@ -1,41 +1,6 @@
 {
-  "lastInsertId": 3164,
+  "lastInsertId": 3205,
   "entries": [
-    {
-      "work": "test",
-      "reference": "test",
-      "quotations": [
-        "ding",
-        "dong"
-      ],
-      "doctrines": [
-        "test"
-      ],
-      "relatedQuotations": [],
-      "_meta": {
-        "created": 1739194014110,
-        "edited": 1739194093674
-      },
-      "id": 1
-    },
-    {
-      "work": "Epistula ad Africanum (Ep.Afr.)",
-      "reference": "test",
-      "quotations": [
-        "test test"
-      ],
-      "doctrines": [
-        "Eschatology",
-        "Ages",
-        "Docetism"
-      ],
-      "relatedQuotations": [],
-      "_meta": {
-        "created": 1740563409625,
-        "edited": 1740563409625
-      },
-      "id": 2
-    },
     {
       "work": "Contra Celsum  (Cels.)",
       "reference": "Cels. praef. 1",
@@ -1443,7 +1408,7 @@
       "reference": "Cels. 2.5",
       "quotations": [
         "Matt 21:43",
-        "Fil 3:20"
+        "Phil 3:20"
       ],
       "doctrines": [
         "Supersessionism",
@@ -3026,7 +2991,7 @@
         "Gal 2:19",
         "Gal 6:14",
         "Rom 6:10",
-        "Fil 3:10",
+        "Phil 3:10",
         "2Tim 2.11",
         "Rom 6:4"
       ],
@@ -3518,7 +3483,7 @@
       "work": "Contra Celsum  (Cels.)",
       "reference": "Cels. 3.29",
       "quotations": [
-        "Fil 2:15"
+        "Phil 2:15"
       ],
       "doctrines": [
         "Paganism/Pagan Gods",
@@ -3793,9 +3758,9 @@
         "1Cor 1:20",
         "2Cor 4:18",
         "1Cor 1:24",
-        "1Rom 1:19",
-        "1Rom 1:20",
-        "1Rom 1:21"
+        "Rom 1:19",
+        "Rom 1:20",
+        "Rom 1:21"
       ],
       "doctrines": [
         "Intelligence",
@@ -5964,8 +5929,8 @@
         "Jer 51:17",
         "Jer 7:18",
         "Jer 19:21",
-        "Act 7:42",
-        "Act 7:43",
+        "Acts 7:42",
+        "Acts 7:43",
         "Col 2:18",
         "Col 2:19"
       ],
@@ -6563,7 +6528,7 @@
       "reference": "Cels. 5.29",
       "quotations": [
         "Deut 32:8",
-        "Deu 32:9",
+        "Deut 32:9",
         "Gen 11:1",
         "Gen 11:2",
         "Gen 11:5",
@@ -6904,7 +6869,7 @@
       "reference": "Cels. 5.43",
       "quotations": [
         "Matt 23:27",
-        "Pet 2:9"
+        "1Pet 2:9"
       ],
       "doctrines": [
         "Jews",
@@ -7061,7 +7026,7 @@
         "Matt 28:2",
         "Mark 16:4",
         "Luke 24:4",
-        "Jn 20:12"
+        "John 20:12"
       ],
       "doctrines": [
         "Angel",
@@ -9928,7 +9893,7 @@
       "quotations": [
         "Matt 19:33",
         "Matt 13:22",
-        "Prov. 28:10"
+        "Prov 28:10"
       ],
       "doctrines": [
         "Wealth (Riches)"
@@ -10811,7 +10776,7 @@
         "1Cor 9:26",
         "Eph 2:2",
         "Rom 8:13",
-        "Gal. 5:25"
+        "Gal 5:25"
       ],
       "doctrines": [
         "Christians in Progress",
@@ -11632,14 +11597,14 @@
         "Rom 8:6",
         "Rom 8:7",
         "1Cor 5:7",
-        "Gv 6:56",
+        "John 6:56",
         "Col 2:12",
         "Col 3:1",
         "Eph 2:6",
-        "Act 1:13",
-        "Act 1:14",
-        "Act 2:2",
-        "Act 2:3"
+        "Acts 1:13",
+        "Acts 1:14",
+        "Acts 2:2",
+        "Acts 2:3"
       ],
       "doctrines": [
         "Liturgy"
@@ -11886,7 +11851,7 @@
       "reference": "Cels. 8.27",
       "quotations": [
         "Ps 26:1",
-        "Ps. 26:3"
+        "Ps 26:3"
       ],
       "doctrines": [
         "Invocation"
@@ -12481,7 +12446,7 @@
         "Mal 3:3",
         "Ps 25:2",
         "2Tim 2:5",
-        "Fil 3:21"
+        "Phil 3:21"
       ],
       "doctrines": [
         "Temptation"
@@ -12729,13 +12694,13 @@
       "work": "Contra Celsum  (Cels.)",
       "reference": "Cels. 8.72",
       "quotations": [
-        "Soph 3:7",
-        "Soph 3:8",
-        "Soph 3:9",
-        "Soph 3:10",
-        "Soph 3:11",
-        "Soph 3:12",
-        "Soph 3:13"
+        "Zeph 3:7",
+        "Zeph 3:8",
+        "Zeph 3:9",
+        "Zeph 3:10",
+        "Zeph 3:11",
+        "Zeph 3:12",
+        "Zeph 3:13"
       ],
       "doctrines": [
         "Universal Salvation",
@@ -12791,9 +12756,9 @@
     },
     {
       "work": "Homiliae in Isaiam (Hom.Is.)",
-      "reference": "Is. 6:1",
+      "reference": "Is 6:1",
       "quotations": [
-        "Hom.Is 1.1"
+        "Hom.Is. 1.1"
       ],
       "doctrines": [
         "Soul",
@@ -12830,7 +12795,7 @@
     },
     {
       "work": "Homiliae in Isaiam (Hom.Is.)",
-      "reference": "Hom.Is 1.1",
+      "reference": "Hom.Is. 1.1",
       "quotations": [
         "2Tim 3:4",
         "2Tim 3:5"
@@ -13008,7 +12973,7 @@
       "work": "Homiliae in Isaiam (Hom.Is.)",
       "reference": "Hom.Is. 1.4",
       "quotations": [
-        "Is. 6:4",
+        "Is 6:4",
         "Is 6:5",
         "Is 6:6",
         "Is 6:7"
@@ -13188,10 +13153,10 @@
       "reference": "Hom.Is. 2.2",
       "quotations": [
         "Is 7:15",
-        "1Pet. 2:2",
+        "1Pet 2:2",
         "Prov 25:16",
         "Prov 6:6",
-        "Prov. 24:13"
+        "Prov 24:13"
       ],
       "doctrines": [
         "Food/Nourishment",
@@ -13304,7 +13269,7 @@
         "Redemption/Justification"
       ],
       "relatedQuotations": [
-        "Col. 1:15",
+        "Col 1:15",
         "John 1:1"
       ],
       "_meta": {
@@ -13529,7 +13494,7 @@
         "Gen 1:1",
         "Gen 1:2",
         "Is 45:7",
-        "Prov. 8:24"
+        "Prov 8:24"
       ],
       "doctrines": [
         "Principle/Beginning",
@@ -13664,7 +13629,7 @@
       ],
       "relatedQuotations": [
         "Is 6:1",
-        "Chr 26:16"
+        "2Chr 26:16"
       ],
       "_meta": {
         "created": 1742982340462,
@@ -14195,7 +14160,7 @@
       "work": "Homiliae in Isaiam (Hom.Is.)",
       "reference": "Hom.Is. 6.4",
       "quotations": [
-        "Is. 6:9",
+        "Is 6:9",
         "1Cor 9:10",
         "John 14:12"
       ],
@@ -15265,7 +15230,7 @@
         "Ps 15:5",
         "Ps 15:6",
         "Deut 32:8",
-        "Deu 32:9",
+        "Deut 32:9",
         "1Pet 2:9"
       ],
       "doctrines": [
@@ -15387,7 +15352,7 @@
       "quotations": [
         "Ps 15:5",
         "Ps 15:6",
-        "Act 3:21"
+        "Acts 3:21"
       ],
       "doctrines": [
         "Apokatastasis/Restoration"
@@ -15600,9 +15565,9 @@
       "work": "Homiliae in Psalmos (Codex Monacensis Graecus 314) (Hom.Ps.)",
       "reference": "Hom.Ps. 15.2.4",
       "quotations": [
-        "Ps. 15:7",
-        "Ps. 15:8",
-        "Ps. 15:9",
+        "Ps 15:7",
+        "Ps 15:8",
+        "Ps 15:9",
         "1Cor 1:11",
         "Matt 5:48",
         "Lev 11:45",
@@ -15729,7 +15694,7 @@
       "reference": "Hom.Ps. 15.2.7",
       "quotations": [
         "Ps 15:9",
-        "Act 2:26"
+        "Acts 2:26"
       ],
       "doctrines": [
         "Philology",
@@ -16613,7 +16578,7 @@
       "work": "Homiliae in Psalmos (Codex Monacensis Graecus 314) (Hom.Ps.)",
       "reference": "Hom.Ps. 36.3.6",
       "quotations": [
-        "Ps. 36:16",
+        "Ps 36:16",
         "1Cor 2:6",
         "1Cor 1:5"
       ],
@@ -16834,7 +16799,7 @@
       "work": "Homiliae in Psalmos (Codex Monacensis Graecus 314) (Hom.Ps.)",
       "reference": "Hom.Ps. 36.3.11",
       "quotations": [
-        "Hom.Ps. 36.3.11s 36:21"
+        "Ps 36:21"
       ],
       "doctrines": [
         "Virtue"
@@ -17128,7 +17093,7 @@
       "work": "Homiliae in Psalmos (Codex Monacensis Graecus 314) (Hom.Ps.)",
       "reference": "Hom.Ps. 36.4.3",
       "quotations": [
-        "Ps. 36:25",
+        "Ps 36:25",
         "Gal 4:19"
       ],
       "doctrines": [
@@ -17298,9 +17263,9 @@
       "work": "Homiliae in Psalmos (Codex Monacensis Graecus 314) (Hom.Ps.)",
       "reference": "Hom.Ps. 67.1.1",
       "quotations": [
-        "Ps. 69:2",
-        "Ps. 69:3",
-        "Ps. 69:4",
+        "Ps 69:2",
+        "Ps 69:3",
+        "Ps 69:4",
         "Ps 69:5",
         "2Cor 13:3",
         "Ps 69:6",
@@ -18554,7 +18519,7 @@
         "Eph 6:14",
         "Eph 6:15",
         "Eph 6:16",
-        "Ephb 6:17"
+        "Eph 6:17"
       ],
       "doctrines": [
         "Demons",
@@ -19478,7 +19443,7 @@
       "quotations": [
         "Ps 74:4",
         "Gal 2:9",
-        "1Tom 3:15",
+        "1Tim 3:15",
         "Rev 3:12"
       ],
       "doctrines": [
@@ -20073,7 +20038,7 @@
         "Ps 6:6",
         "Luke 1:63",
         "Luke 1:64",
-        "Jn 1:29",
+        "John 1:29",
         "Matt 5:8"
       ],
       "doctrines": [
@@ -20661,7 +20626,7 @@
         "Knowledge"
       ],
       "relatedQuotations": [
-        "Sap 9:16"
+        "Wis 9:16"
       ],
       "_meta": {
         "created": 1744103765509,
@@ -21040,7 +21005,7 @@
       "work": "Homiliae in Psalmos (Codex Monacensis Graecus 314) (Hom.Ps.)",
       "reference": "Hom.Ps. 77.1.5",
       "quotations": [
-        "Pa 77:1",
+        "Ps 77:1",
         "Is 2:3",
         "Hos 12:12"
       ],
@@ -21149,7 +21114,7 @@
         "Ps 77:6",
         "Ps 77:7",
         "Ps 77:8",
-        "Rom:6:4",
+        "Rom 6:4",
         "1Cor 10:1",
         "1Cor 2:2",
         "1Cor 10:5"
@@ -23157,7 +23122,7 @@
         "Ezek 16:37",
         "Ezek 23:5",
         "Ezek 23:9",
-        "Ezech 23:22"
+        "Ezek 23:22"
       ],
       "_meta": {
         "created": 1744198430214,
@@ -24030,7 +23995,7 @@
       "reference": "Hom.Ps. 80.2.5",
       "quotations": [
         "Ps 80:11",
-        "1cOR 2:13"
+        "1Cor 2:13"
       ],
       "doctrines": [
         "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
@@ -25879,7 +25844,7 @@
         "Mark 14:16",
         "Mark 14:17",
         "Luke 8:13",
-        "Mat 13:23",
+        "Matt 13:23",
         "Mark 4:20",
         "Luke 8:15",
         "1Cor 3:9"
@@ -26201,7 +26166,7 @@
         "Gal 5:17",
         "John 15:18",
         "John 12:31",
-        "Johsh 2:16",
+        "Josh 2:16",
         "Ps 121:1",
         "Matt 4:6"
       ],
@@ -26680,7 +26645,7 @@
         "Exod 14:22",
         "Ps 78:24",
         "Exod 16:13",
-        "1Thes 4:17",
+        "1Thess 4:17",
         "Is 43:2",
         "Is 43:3",
         "Ps 114:5",
@@ -26757,7 +26722,6 @@
       "reference": "Hom.Jes.Nav. 4.3",
       "quotations": [
         "Josh 3:4",
-        "G.Thom 82",
         "1Cor 3:12"
       ],
       "doctrines": [
@@ -26901,7 +26865,7 @@
         "Josh 4:13",
         "Matt 15:19",
         "Josh 11:14",
-        "Mich 4:4"
+        "Mic 4:4"
       ],
       "doctrines": [
         "Continence/Self Control",
@@ -27295,7 +27259,7 @@
         "Josh 6:20",
         "Ps 112:1",
         "1Cor 1:10",
-        "Act 1:13",
+        "Acts 1:13",
         "Acts 1:14",
         "John 16:33"
       ],
@@ -27930,7 +27894,7 @@
         "2Cor 3:3",
         "Rom 9:24",
         "Rom 2:14",
-        "Rm 2:15"
+        "Rom 2:15"
       ],
       "doctrines": [
         "Law",
@@ -28222,7 +28186,7 @@
         "Josh 9:4",
         "Josh 9:5",
         "Col 3:9",
-        "Shep.Her"
+        "Herm.Mand."
       ],
       "doctrines": [
         "Resurrection",
@@ -28455,7 +28419,7 @@
         "Josh 10:16",
         "Col 2:14",
         "Col 2:15",
-        "2Titus 3:3"
+        "Titus 3:3"
       ],
       "doctrines": [
         "Senses (Spiritual and Human)",
@@ -28989,7 +28953,7 @@
       "work": "In Jesu Nave homiliae xxvi (Hom.Jes.Nav.)",
       "reference": "Hom.Jes.Nav. 14.2",
       "quotations": [
-        "Joah 11:2",
+        "Josh 11:2",
         "Gal 5:7"
       ],
       "doctrines": [
@@ -31889,7 +31853,7 @@
       "work": "Commentarius in Canticum (Comm.Cant.)",
       "reference": "Comm.Cant. 1.2",
       "quotations": [
-        "Cant 1:3",
+        "Song 1:3",
         "Heb 5:13",
         "Num 6:3",
         "Luke 1:15",
@@ -32465,10 +32429,10 @@
         "1Kgs 10:10",
         "Ps 67:32",
         "Ps 67:33",
-        "Soph 3:8",
-        "Soph 3:9",
-        "Soph 3:10",
-        "Soph 3:11",
+        "Zeph 3:8",
+        "Zeph 3:9",
+        "Zeph 3:10",
+        "Zeph 3:11",
         "Jer 38:6",
         "Jer 38:7",
         "Jer 38:8",
@@ -32670,11 +32634,11 @@
       "reference": "Comm.Cant. 2.1",
       "quotations": [
         "Ps 67:32",
-        "Soph 3:8",
+        "Zeph 3:8",
         "Ps 50:19",
         "John 6:37",
         "Rom 11:26",
-        "Soph 3:11"
+        "Zeph 3:11"
       ],
       "doctrines": [
         "Supersessionism",
@@ -34376,7 +34340,7 @@
       "work": "Commentarius in Canticum (Comm.Cant.)",
       "reference": "Comm.Cant. 3.5",
       "quotations": [
-        "Chr 29:15",
+        "1Chr 29:15",
         "Job 7:1"
       ],
       "doctrines": [
@@ -35919,7 +35883,7 @@
       "quotations": [
         "Song 2:11",
         "2Cor 4:18",
-        "SOng 1:6",
+        "Song 1:6",
         "1Cor 10:4",
         "2Cor 3:18"
       ],
@@ -36455,7 +36419,7 @@
       "reference": "Fr.1Cor. 2",
       "quotations": [
         "1Cor 1:5",
-        "1Petr 3:15",
+        "1Pet 3:15",
         "Wis 7:17"
       ],
       "doctrines": [
@@ -37440,7 +37404,7 @@
       "work": "Epistula ad Africanum (Ep.Afr.)",
       "reference": "Ep.Afr. 5",
       "quotations": [
-        "Prov. 22:28"
+        "Prov 22:28"
       ],
       "doctrines": [
         "Philology",
@@ -38864,7 +38828,7 @@
       "work": "Commentarii in Romanos (Comm.Rom.)",
       "reference": "Comm.Rom. 1.13.3",
       "quotations": [
-        "Roma 1:13",
+        "Rom 1:13",
         "1Thess 2:18",
         "1Cor 2:2"
       ],
@@ -41335,7 +41299,7 @@
         "Rom 2:8",
         "Rom 2:9",
         "Rom 2:10",
-        "Micah 6:8",
+        "Mic 6:8",
         "John 17:3"
       ],
       "doctrines": [
@@ -41613,7 +41577,7 @@
         "Exod 20:14",
         "Exod 20:15",
         "Exod 20:16",
-        "Act 15:20",
+        "Acts 15:20",
         "Tob 4:15",
         "Matt 7:12",
         "Luke 6:31",
@@ -42433,7 +42397,7 @@
         "Exod 4:24",
         "Exod 4:25",
         "Deut 28:43",
-        "Deu 28:44",
+        "Deut 28:44",
         "Matt 20:16"
       ],
       "doctrines": [
@@ -43472,7 +43436,7 @@
       "work": "Commentarii in Romanos (Comm.Rom.)",
       "reference": "Comm.Rom 3.1.7",
       "quotations": [
-        "ROm 3:5"
+        "Rom 3:5"
       ],
       "doctrines": [
         "Knowledge",
@@ -44493,7 +44457,7 @@
       "reference": "Comm.Rom. 3.6.9",
       "quotations": [
         "Rom 3:20",
-        "Mat 7:18",
+        "Matt 7:18",
         "Matt 12:33",
         "Luke 6:43",
         "Rom 3:9",
@@ -49417,7 +49381,7 @@
         "1Cor 15:25",
         "Heb 2:8",
         "Matt 12:29",
-        "Makr 3:7",
+        "Mark 3:7",
         "Luke 11:22",
         "1Cor 15:25",
         "Matt 10:34"
@@ -49450,7 +49414,7 @@
         "Col 4:6",
         "1Cor 10.31",
         "Ps 106:3",
-        "WIs 9:6"
+        "Wis 9:6"
       ],
       "doctrines": [
         "Grace",
@@ -49607,7 +49571,7 @@
         "Prov 18:17",
         "Matt 23:12",
         "Luke 18:14",
-        "Cor 15:9",
+        "1Cor 15:9",
         "Gal 1:13",
         "Acts 8:3",
         "Acts 9:2",
@@ -50044,9 +50008,9 @@
       "quotations": [
         "Rom 6:2",
         "Rom 6:3",
-        "ROm 6:4",
+        "Rom 6:4",
         "Rom 5:20",
-        "Rm 5:15"
+        "Rom 5:15"
       ],
       "doctrines": [
         "Sin/Transgression",
@@ -53250,7 +53214,7 @@
         "Ps 104:4",
         "Dan 3:86",
         "Rom 8:16",
-        "1Thes 5:23"
+        "1Thess 5:23"
       ],
       "doctrines": [
         "Rational Creatures/Logikoi",
@@ -59479,7 +59443,7 @@
         "Rom 13:3",
         "Rom 13:4",
         "Acts 15:23",
-        "Act 15:24",
+        "Acts 15:24",
         "Acts 15:18",
         "Acts 15:29"
       ],
@@ -61117,7 +61081,7 @@
       "quotations": [
         "Rom 15:4",
         "1Cor 10:11",
-        "Det 25:4",
+        "Deut 25:4",
         "1Cor 9:9",
         "1Cor 9:10",
         "Gal 4:22",
@@ -64425,7 +64389,7 @@
       "work": "De principiis (Peri archōn) First Principles (Princ.)",
       "reference": "Princ. 2.1.5",
       "quotations": [
-        "Macc 7:28",
+        "2Macc 7:28",
         "Herm.Mand. 1:1",
         "Ps 148:5"
       ],
@@ -64551,7 +64515,7 @@
         "John 17:24",
         "John 17:21",
         "Gal 1:5",
-        "Tim 1:17",
+        "1Tim 1:17",
         "1Cor 15:28"
       ],
       "doctrines": [
@@ -64676,7 +64640,7 @@
       "reference": "Princ. 2.4.2",
       "quotations": [
         "Acts 3:13",
-        "Acst 4:24",
+        "Acts 4:24",
         "Acts 5:30",
         "Acts 7:2",
         "Acts 7:32",
@@ -65234,7 +65198,7 @@
       "quotations": [
         "1Pet 1:9",
         "Heb 12:29",
-        "Deu 4:24",
+        "Deut 4:24",
         "Heb 1:7",
         "Ps 103:4",
         "Exod 3:2",
@@ -66049,7 +66013,7 @@
         "Is 63:17",
         "Is 63:18",
         "Jer 20:7",
-        "Hebr 12:6",
+        "Heb 12:6",
         "Rom 8:35",
         "Dan 13:42",
         "Ps 21:2",
@@ -66444,7 +66408,7 @@
         "Zech 1:14",
         "Herm.Mand. 6:2:1",
         "Barn 18",
-        "Esther 6:1",
+        "Esth 6:1",
         "Matt 27:63",
         "John 13:2",
         "Prov 4:23",
@@ -67380,7 +67344,7 @@
         "Is 7:14",
         "Matt 1:23",
         "Is 8:9",
-        "Mich 5:2",
+        "Mic 5:2",
         "Matt 2:6",
         "Dan 9:24",
         "Job 3:8",
@@ -67430,7 +67394,7 @@
         "1Cor 2:4",
         "1Cor 2:5",
         "1Cor 2:6",
-        "Hebr 6:1",
+        "Heb 6:1",
         "Rom 12:25",
         "2Tim 1:10",
         "Rom 16:25"
@@ -67617,7 +67581,7 @@
         "Col 2:17",
         "Heb 8:5",
         "1Kgs 19:18",
-        "ROm 11:4"
+        "Rom 11:4"
       ],
       "doctrines": [
         "Spiritual Christians",
@@ -69150,7 +69114,7 @@
       "reference": "Comm.Jo. 1.17.103-104",
       "quotations": [
         "John 1:1",
-        "Macc 7:28",
+        "2Macc 7:28",
         "Herm.Mand. 1:1",
         "Herm.Vis. 1:1:6",
         "Col 1:15",
@@ -69926,7 +69890,7 @@
     {
       "id": 3112,
       "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
-      "reference": "Comm.Jo. 1.32.236-",
+      "reference": "Comm.Jo. 1.32.236-239",
       "quotations": [
         "John 1:30",
         "John 1:31",
@@ -69943,7 +69907,7 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1760600203203,
-        "edited": 1760600203203
+        "edited": 1762350632441
       }
     },
     {
@@ -70077,7 +70041,7 @@
     {
       "id": 3118,
       "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
-      "reference": "Comm.Jo. 1.35.259-",
+      "reference": "Comm.Jo. 1.35.259-260",
       "quotations": [
         "Rom 9:29",
         "Gen 49:8",
@@ -70094,7 +70058,7 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1760602632458,
-        "edited": 1760602686326
+        "edited": 1762350599666
       }
     },
     {
@@ -70168,7 +70132,7 @@
         "John 9:5",
         "John 11:25",
         "John 10.12",
-        "john 13:13",
+        "John 13:13",
         "Ps 44:6",
         "Is 49:2",
         "1John 2:1",
@@ -71211,6 +71175,1006 @@
       "_meta": {
         "created": 1760621575819,
         "edited": 1760621575819
+      }
+    },
+    {
+      "id": 3165,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.25.158",
+      "quotations": [
+        "John 1:5",
+        "Hos 10:12"
+      ],
+      "doctrines": [
+        "Evil",
+        "Logos",
+        "Light",
+        "Knowledge"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762166740826,
+        "edited": 1762166740826
+      }
+    },
+    {
+      "id": 3166,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.25.159-162",
+      "quotations": [
+        "Is 26:9",
+        "John 1:5",
+        "Ps 18:9",
+        "Hos 10:12",
+        "1John 1:6",
+        "1John 2:9",
+        "1John 2:11",
+        "Ps 81:5",
+        "Matt 5:14",
+        "1John 1:5"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Vices",
+        "Light",
+        "Knowledge"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762166932502,
+        "edited": 1762166998856
+      }
+    },
+    {
+      "id": 3167,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.26.163-165",
+      "quotations": [
+        "1John 1:5",
+        "2Cor 5:21",
+        "Rom 8:3",
+        "Matt 8:17",
+        "1Pet 3:5",
+        "Mark 14:34",
+        "Is 53:4",
+        "John 12:27",
+        "Zech 3:3",
+        "Zech 3:4",
+        "Ps 21:2",
+        "Ps 68:6"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "God the Son",
+        "Christ/Saviour",
+        "Jesus as a man/Jesus' Soul",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762167252879,
+        "edited": 1762167282372
+      }
+    },
+    {
+      "id": 3168,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.26.163",
+      "quotations": [
+        "1John 1:5"
+      ],
+      "doctrines": [
+        "God the Father"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762167270002,
+        "edited": 1762167270002
+      }
+    },
+    {
+      "id": 3169,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.26.165-167",
+      "quotations": [
+        "1Tim 6:16",
+        "1John 1:5",
+        "2Tim 1:10",
+        "Is 9:1",
+        "John 1:4",
+        "John 1:5",
+        "Eph 6:12",
+        "John 12:36"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "God the Father",
+        "God the Son",
+        "Epinoiai (Aspects)",
+        "Light"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762167479346,
+        "edited": 1762167479346
+      }
+    },
+    {
+      "id": 3170,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.27.168-170",
+      "quotations": [
+        "John 1:5",
+        "Rom 8:13"
+      ],
+      "doctrines": [
+        "Evil",
+        "Persecution",
+        "Passion/Cross",
+        "Light"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762167721005,
+        "edited": 1762167721005
+      }
+    },
+    {
+      "id": 3171,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.28.171-172",
+      "quotations": [
+        "2Tim 4:4",
+        "Exod 19:9",
+        "Exod 19:16",
+        "Ps 17:12"
+      ],
+      "doctrines": [
+        "God the Father",
+        "Holy Spirit",
+        "God the Son",
+        "Knowledge",
+        "Contemplation/Seeing/Vision",
+        "Heresies",
+        "Myth",
+        "Doctrine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762167952416,
+        "edited": 1762167952416
+      }
+    },
+    {
+      "id": 3172,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.28.173-174",
+      "quotations": [
+        "Ps 17:12",
+        "Prov 1:6",
+        "Matt 10:27"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Ecclesiastical Tradition",
+        "Saints/Sanctification",
+        "Christ/Saviour",
+        "Light",
+        "Mysteries",
+        "Deification",
+        "Heresies",
+        "Gnosticism"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762168058041,
+        "edited": 1762168058041
+      }
+    },
+    {
+      "id": 3173,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.29.175-179",
+      "quotations": [
+        "John 1:6",
+        "John 1:7",
+        "Gen 3:23",
+        "Is 6:1",
+        "Is 6:8",
+        "Is 6:9",
+        "Luke 1:17",
+        "John 1:32",
+        "John 1:33"
+      ],
+      "doctrines": [
+        "Heaven/Paradise",
+        "Angel",
+        "Sensible World",
+        "Soul"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762168504019,
+        "edited": 1762168504019
+      }
+    },
+    {
+      "id": 3174,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.30.180-185",
+      "quotations": [
+        "John 1:6",
+        "Luke 1:44",
+        "Matt 11:14",
+        "2Thess 2:3",
+        "2Thess 2:11",
+        "2Thess 2:12",
+        "Jer 1:7",
+        "Ezek 1:3"
+      ],
+      "doctrines": [
+        "Human being",
+        "Saints/Sanctification",
+        "Body and corporeality",
+        "Soul"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762168765846,
+        "edited": 1762168811835
+      }
+    },
+    {
+      "id": 3175,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.31.186-192",
+      "quotations": [
+        "Matt 11:10",
+        "Mal 3:1",
+        "Col 1:15",
+        "Luke 1:44",
+        "Hos 12:4",
+        "Rom 9:11",
+        "Rom 9:12",
+        "Rom 9:13",
+        "Rom 9:14",
+        "Is 40:3",
+        "Pr.Jos."
+      ],
+      "doctrines": [
+        "Angel",
+        "Predestination",
+        "Saints/Sanctification",
+        "Merit",
+        "Soul",
+        "Economy/Salvific Plan",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762169114361,
+        "edited": 1762169286104
+      }
+    },
+    {
+      "id": 3176,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.32.193-195",
+      "quotations": [
+        "John 1:23",
+        "Mark 1:3",
+        "Luke 1:20",
+        "Luke 1:64",
+        "John 1:29",
+        "Matt 3:13"
+      ],
+      "doctrines": [
+        "Prophets/Prophecy",
+        "Logos",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762169447139,
+        "edited": 1762169447139
+      }
+    },
+    {
+      "id": 3177,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.33.196-198",
+      "quotations": [
+        "Luke 1:56",
+        "Luke 1:17",
+        "Rom 6:5"
+      ],
+      "doctrines": [
+        "Prophets/Prophecy",
+        "Economy/Salvific Plan",
+        "Names"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762169571918,
+        "edited": 1762169571918
+      }
+    },
+    {
+      "id": 3178,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.34.199-204",
+      "quotations": [
+        "John 1:7"
+      ],
+      "doctrines": [
+        "Conversion",
+        "Faith",
+        "Prophets/Prophecy",
+        "Gnosticism",
+        "Marcionism",
+        "Myth",
+        "Economy/Salvific Plan"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762169878413,
+        "edited": 1762169899508
+      }
+    },
+    {
+      "id": 3179,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.34.205-211",
+      "quotations": [
+        "John 1:7",
+        "John 2:23",
+        "Joh 8:56",
+        "Gal 3:19",
+        "Is 43:10",
+        "Acts 1:8",
+        "Matt 8:4",
+        "Matt 5:16"
+      ],
+      "doctrines": [
+        "Martyrdom",
+        "Saints/Sanctification",
+        "Prophets/Prophecy",
+        "Knowledge",
+        "Economy/Salvific Plan",
+        "Doctrine",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762170259066,
+        "edited": 1762170286907
+      }
+    },
+    {
+      "id": 3180,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.35.212-218",
+      "quotations": [
+        "John 1:7",
+        "John 1:15",
+        "John 1:16",
+        "John 1:17",
+        "John 1:18",
+        "John 1:19",
+        "John 1:26",
+        "John 1:27",
+        "John 1:29",
+        "John 1:30",
+        "John 1:31",
+        "John 1:32",
+        "John 1:33",
+        "John 1:34",
+        "John 1:35",
+        "John 1:36",
+        "John 1:37",
+        "John 1:38"
+      ],
+      "doctrines": [
+        "Prophets/Prophecy"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762170485460,
+        "edited": 1762170485460
+      }
+    },
+    {
+      "id": 3181,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.36.219-222",
+      "quotations": [
+        "John 1:38",
+        "John 1:39",
+        "John 1:40",
+        "John 1:41",
+        "John 1:42",
+        "Luke 11:10"
+      ],
+      "doctrines": [
+        "Merit",
+        "Prophets/Prophecy",
+        "Contemplation/Seeing/Vision",
+        "Numbers"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762170705483,
+        "edited": 1762170705483
+      }
+    },
+    {
+      "id": 3182,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.37.223-224",
+      "quotations": [
+        "Luke 1:44",
+        "Luke 1:17",
+        "Matt 11:14",
+        "Matt 11:15",
+        "John 1:7"
+      ],
+      "doctrines": [
+        "Prophets/Prophecy"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762170921992,
+        "edited": 1762170921992
+      }
+    },
+    {
+      "id": 3183,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 2.37.225-229",
+      "quotations": [
+        "John 1:4",
+        "John 1:5",
+        "John 1:6",
+        "John 1:7",
+        "Prov 8:22",
+        "Is 9:2",
+        "Rom 7:24",
+        "Col 3:3",
+        "Col 3:4",
+        "John 1:1",
+        "John 1:14",
+        "1Cor 13:12"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Prophets/Prophecy",
+        "Epinoiai (Aspects)",
+        "Light",
+        "Participation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762171155567,
+        "edited": 1762171155567
+      }
+    },
+    {
+      "id": 3184,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 4.1",
+      "quotations": [
+        "1Cor 2:4"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Holy Spirit",
+        "Power of God"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762177676902,
+        "edited": 1762177676902
+      }
+    },
+    {
+      "id": 3185,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 4.2",
+      "quotations": [
+        "2Cor 11:6",
+        "2Cor 4:7",
+        "Col 2:3",
+        "Ps 18:5",
+        "1Cor 1:26",
+        "1Cor 1:27",
+        "Rom 1:14",
+        "Rom 1:15",
+        "2Cor 3:6",
+        "1Cor 2:4",
+        "1Cor 2:5"
+      ],
+      "doctrines": [
+        "Conversion",
+        "Sacred Scriptures",
+        "Power of God"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762178266061,
+        "edited": 1762178266061
+      }
+    },
+    {
+      "id": 3186,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.1",
+      "quotations": [
+        "Eccl 12:12"
+      ],
+      "doctrines": [
+        "Teaching"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762178367732,
+        "edited": 1762178367732
+      }
+    },
+    {
+      "id": 3187,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.2",
+      "quotations": [
+        "Eccl 12:12"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Saints/Sanctification",
+        "Sacred Scriptures"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762178468272,
+        "edited": 1762178468272
+      }
+    },
+    {
+      "id": 3188,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.3",
+      "quotations": [
+        "2Cor 3:6",
+        "Rom 15:19",
+        "Matt 16:18",
+        "John 21:25",
+        "Rev 10:4"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Sacred Scriptures"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762178613536,
+        "edited": 1762178613536
+      }
+    },
+    {
+      "id": 3189,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.4",
+      "quotations": [
+        "Eccl 12:12",
+        "Prov 10:19",
+        "1Kgs 4:28",
+        "Prov 1:24",
+        "Acts 20:7"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Sacred Scriptures"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762179742182,
+        "edited": 1762179742182
+      }
+    },
+    {
+      "id": 3190,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.5",
+      "quotations": [
+        "Prov 10:19",
+        "John 1:1"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Sacred Scriptures",
+        "Logos",
+        "Truth",
+        "Numbers",
+        "Doctrine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762179916951,
+        "edited": 1762179916951
+      }
+    },
+    {
+      "id": 3191,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.6",
+      "quotations": [
+        "John 5:39",
+        "Ps 39:8",
+        "Rev 5:1",
+        "Rev 3:7"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Literal Exegesis",
+        "Christ/Saviour"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762180122989,
+        "edited": 1762180122989
+      }
+    },
+    {
+      "id": 3192,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.7",
+      "quotations": [
+        "Ps 68:29",
+        "Dan 710",
+        "Exod 32:32",
+        "Is 29:11",
+        "Is 29:12",
+        "Is 22:22",
+        "Ezek 2:10",
+        "Rev 10:10",
+        "Rom 2:16"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Doctrine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762180353170,
+        "edited": 1762180353170
+      }
+    },
+    {
+      "id": 3193,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.7",
+      "quotations": [
+        "Rom 2:16"
+      ],
+      "doctrines": [
+        "Gospel",
+        "Marcionism"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762180370094,
+        "edited": 1762180370094
+      }
+    },
+    {
+      "id": 3194,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 5.8",
+      "quotations": [
+        "Eccl 12:12",
+        "2Cor 3:6"
+      ],
+      "doctrines": [
+        "Ecclesiastical Tradition",
+        "Teaching",
+        "Preaching",
+        "Sacred Scriptures",
+        "Truth",
+        "Heresies",
+        "Gnosticism",
+        "Marcionism"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762180563515,
+        "edited": 1762180563515
+      }
+    },
+    {
+      "id": 3195,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.1.1-5",
+      "quotations": [
+        "Luke 6:48",
+        "Phil 4:7",
+        "John 14:27",
+        "1Chr 28:3",
+        "2Chr 1:7",
+        "1Kgs 16:8",
+        "Matt 12:42",
+        "Mic 4:4",
+        "1Chr 22:9",
+        "Esd 4:17"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Continence/Self Control",
+        "Emotions/Passions",
+        "Peace",
+        "Temple"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762180945720,
+        "edited": 1762180945720
+      }
+    },
+    {
+      "id": 3196,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.2.5-12",
+      "quotations": [
+        "Luke 14:28",
+        "1Cor 1:5",
+        "Matt 8:26",
+        "Luke 8:24",
+        "Eph 6:16"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Preaching",
+        "Continence/Self Control",
+        "Emotions/Passions",
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762182410693,
+        "edited": 1762182410693
+      }
+    },
+    {
+      "id": 3197,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.3.13-16",
+      "quotations": [
+        "John 1:19",
+        "John 1:15",
+        "John 1:16",
+        "John 1:17",
+        "John 1:18",
+        "John 8:56",
+        "John 8:58",
+        "Matt 13:17",
+        "Mark 4:9"
+      ],
+      "doctrines": [
+        "Prophets/Prophecy",
+        "Christ/Saviour",
+        "Knowledge",
+        "Participation",
+        "Gnosticism"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762182858043,
+        "edited": 1762182858043
+      }
+    },
+    {
+      "id": 3198,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.4.17-19",
+      "quotations": [
+        "Matt 13:17",
+        "John 5:17",
+        "Matt 22:31",
+        "Matt 22:32",
+        "Ps 109:3",
+        "Gen 17:15",
+        "Rom 4:11",
+        "John 11:25",
+        "John 14:9",
+        "Col 1:15"
+      ],
+      "doctrines": [
+        "Saints/Sanctification",
+        "Prophets/Prophecy",
+        "Life",
+        "Participation",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762351025605,
+        "edited": 1762351044219
+      }
+    },
+    {
+      "id": 3199,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.4.20-26",
+      "quotations": [
+        "John 8:39",
+        "Matt 11:15",
+        "Prov 16:23",
+        "Josh 12:9",
+        "Is 6:1",
+        "Ezek 1:4",
+        "Rom 16:25",
+        "Rom 16:26",
+        "2Tim 1:10",
+        "Eph 3:5",
+        "Eph 3:6"
+      ],
+      "doctrines": [
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Patriarchs",
+        "Prophets/Prophecy",
+        "Knowledge"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762351356537,
+        "edited": 1762351356537
+      }
+    },
+    {
+      "id": 3200,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.5.27-30",
+      "quotations": [
+        "Eph 3:5",
+        "Eph 3:6",
+        "Matt 13:17",
+        "2Cor 2:4"
+      ],
+      "doctrines": [
+        "Patriarchs",
+        "Prophets/Prophecy",
+        "Apostles/Disciples",
+        "Knowledge"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762351620511,
+        "edited": 1762351620511
+      }
+    },
+    {
+      "id": 3201,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.6.31-36",
+      "quotations": [
+        "John 1:3",
+        "John 1:15",
+        "John 1:16",
+        "Col 1:15"
+      ],
+      "doctrines": [
+        "Grace",
+        "Law",
+        "Gnosticism",
+        "Marcionism"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762352174195,
+        "edited": 1762352200271
+      }
+    },
+    {
+      "id": 3202,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.6.37-40",
+      "quotations": [
+        "John 14:6",
+        "Prov 8:22",
+        "Ps 30:24",
+        "1Cor 1:30",
+        "Ps 10:7"
+      ],
+      "doctrines": [
+        "Rational Creatures/Logikoi",
+        "Substance/Ousia",
+        "God the Father",
+        "God the Son",
+        "Christ/Saviour",
+        "Epinoiai (Aspects)",
+        "Truth",
+        "Participation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762352453222,
+        "edited": 1762352453222
+      }
+    },
+    {
+      "id": 3203,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.6.41-42",
+      "quotations": [
+        "John 14:6",
+        "Col 3:4",
+        "Ps 62:4",
+        "2Cor 13:3",
+        "Ps 104:15",
+        "John 1:17"
+      ],
+      "doctrines": [
+        "Saints/Sanctification",
+        "God the Father",
+        "God the Son",
+        "Christ/Saviour",
+        "Epinoiai (Aspects)",
+        "Life",
+        "Participation",
+        "Deification"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762352630302,
+        "edited": 1762352630302
+      }
+    },
+    {
+      "id": 3204,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.7.43-47",
+      "quotations": [
+        "John 1:19",
+        "John 1:20",
+        "Acts 3:22",
+        "Acts 3:23",
+        "John 1:23",
+        "Is 40:3"
+      ],
+      "doctrines": [
+        "Prophets/Prophecy",
+        "Christ/Saviour"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762353331466,
+        "edited": 1762353331466
+      }
+    },
+    {
+      "id": 3205,
+      "work": "Commentarii in evangelium Joannis (Comm.Jo.)",
+      "reference": "Comm.Jo. 6.8.48-53",
+      "quotations": [
+        "John 1:19",
+        "John 1:21",
+        "John 1:22",
+        "John 1:24",
+        "John 1:25",
+        "John 1:26",
+        "John 1:27"
+      ],
+      "doctrines": [
+        "Prophets/Prophecy",
+        "Jews",
+        "Christ/Saviour",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1762354844870,
+        "edited": 1762354844870
       }
     }
   ]
