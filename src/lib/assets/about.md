@@ -21,7 +21,9 @@ The ultimate aim is to reconstruct Origen’s "textual mind"—the mental networ
 This section is under construction and will be implemented shortly.
 
 ## How to cite the database
-WIP.
+Hermanin de Reichenfeld, G., Fog, B. V., (2025) The Orige.net Project: Digital Exploration of Biblical Quotations in Origen of Alexandria's Exegesis. https://ghdr90.github.io/orige-networks/
 
-### Terms of use
+## Acknowledgments
 Any use of this website and database in connection with scientific work must reference and acknowledge [Center for Humanities Computing](https://chc.au.dk), Aarhus University.
+
+This project is XXX
