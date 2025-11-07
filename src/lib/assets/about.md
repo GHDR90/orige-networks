@@ -1,5 +1,8 @@
 # About the project
 
+## How to cite the database
+Hermanin de Reichenfeld, G., Fog, B. V., (2025) _The Orige.net Project: Digital Exploration of Biblical Quotations in Origen of Alexandria's Exegesis_. [https://ghdr90.github.io/orige-networks/](https://ghdr90.github.io/orige-networks/about).
+
 ## Description of the project
 This website and database is developed by [Center for Humanities Computing](https://chc.au.dk), Aarhus University.
 
@@ -16,12 +19,6 @@ Through _Orige.net_, users can:
 Data have been manually collected and structured into a JSON-based database. The platform uses [_sigma.js_](https://sigmajs.org/) and [_graphology_](https://graphology.github.io/) to render dynamic, interactive network graphs in the browser, enabling users to analyse centrality, proximity, and connections between scriptural and theological nodes.
 
 The ultimate aim is to reconstruct Origen’s "textual mind"—the mental network through which he engaged with Scripture—offering scholars a powerful tool for visualising and analysing patterns previously inaccessible without computational support. This represents a significant methodological advance for textual studies and opens the door to applying similar tools to other ancient authors and traditions.
-
-## How to use the database
-This section is under construction and will be implemented shortly.
-
-## How to cite the database
-Hermanin de Reichenfeld, G., Fog, B. V., (2025) _The Orige.net Project: Digital Exploration of Biblical Quotations in Origen of Alexandria's Exegesis_. [https://ghdr90.github.io/orige-networks/](https://ghdr90.github.io/orige-networks/about).
 
 ## Acknowledgments
 Any use of this website and database in connection with scientific work must reference and acknowledge [Center for Humanities Computing](https://chc.au.dk), Aarhus University.
