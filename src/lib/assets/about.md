@@ -26,4 +26,4 @@ Hermanin de Reichenfeld, G., Fog, B. V., (2025) _The Orige.net Project: Digital 
 ## Acknowledgments
 Any use of this website and database in connection with scientific work must reference and acknowledge [Center for Humanities Computing](https://chc.au.dk), Aarhus University.
 
-This project is XXX
+The Orige.net project is funded from the European Union under Horizon Europe research and innovation programme HORIZON-MSCA-2023-PF-01, Marie Sklodowska-Curie grant agreement 101149891. Funded by the European Union. Views and opinions expressed are however those of the author only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them.
