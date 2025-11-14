@@ -3,6 +3,7 @@
 - Definition of a quotation
 - Doctrine glossary
 - Biblical books and abbreviations
+- Origen's works and abbreviations
 
 ## Definition of a quotation
 Orige.net project aims to provide visual NA graphs of Origen’s use of biblical quotations in his works. A biblical quotation refers to a passage deliberately drawn from any of the biblical texts that Origen considered "canonical," regardless of the version or translation of the Bible he is using.  For the purposes of this project, the term “quotation” is understood as follows:
@@ -255,3 +256,87 @@ A quotation is a statement that maintains a degree of "otherness," indicating it
 | Barnabas                       | Barn              |
 | 1–2 Enoch                      | 1–2En             |
 | Gospel of the Hebrews          | Gos.Heb.          |
+
+
+## Origen's works and abbreviations
+
+
+| **Origen’s works** | **Abbreviations** |
+|--------------------|-------------------|
+| Adnotationes in Deuteronomium   | Adnot.Deut. |
+| Adnotationes in Exodum          | Adnot.Exod. |
+| Adnotationes in Genesim         | Adnot.Gen. |
+| Adnotationes in Jesum filium Nave  | Adnot.Jes.Nav. |
+| Adnotationes in Judices | Adnot.Judic. |
+| Adnotationes in Leviticum | Adnot.Lev. |
+| Adnotationes in Numeros | Adnot.Num. |
+| In Canticum canticorum (libri duo quos scripsit in adulescentia) | Cant.(Adulesc.) |
+| Contra Celsum | Cels. |
+| Commentarius in Canticum | Comm.Cant. |
+| Commentarii in Genesim | Comm.Gen. |
+| Commentarii in evangelium Joannis | Comm.Jo. |
+| Commentarium in evangelium Matthaei | Comm.Matt. |
+| Commentarii in Romanos | Comm.Rom. |
+| Commentarium series in evangelium Matthaei | Comm.ser.Matt. |
+| Diologus cum Heraclide | Dial. |
+| Enarrationes in Job | Enarrat.Job |
+| De engastrimytho | Engastr. |
+| Epistula ad Africanum | Ep.Afr. |
+| Epistula ad Gregorium Thaumaturgum | Ep.Greg. |
+| Epistula ad ignotum (Fabianum Romanum) | Ep.ign. |
+| Excerpta in Psalmos | Exc.Ps. |
+| Expositio in Proverbia | Exp.Prov. |
+| Fragmentum ex homiliis in Acta apostolorum | Fr.Act. |
+| Libri x in Canticum canticorum | Fr.Cant. |
+| Fragmenta ex commentariis in epistulam i ad Corinthios | Fr.1Cor. |
+| Fragmenta ex commentariis in epistulam ad Ephesios | Fr.Eph. |
+| Fragmenta ex commentariis in Exodum | Fr.Exod. |
+| Fragmenta ex commentariis in Ezechielem | Fr.Ezech. |
+| Fragmenta ex homiliis in epistulam ad Hebraeos | Fr.Heb. |
+| Fragmenta in Jeremiam | Fr.Jer. |
+| Fragmenta in evangelium Joannis | Fr.Jo. |
+| Fragmenta in Lamentationes | Fr.Lam. |
+| Fragmenta in Lucam | Fr.Luc. |
+| Fragmenta ex commentariis in evangelium Matthaei | Fr.Matt. |
+| Fragmentum ex commentariis in Osee | Fr.Os. |
+| Fragmenta de principiis | Fr.Prin. |
+| Fragmenta ex commentariis in Proverbia | Fr.Prov. |
+| Fragmenta in Psalmos 1–150 | Fr.Ps. |
+| Fragmenta in librum primum Regnorum | Fr.1Reg. |
+| Fragmentum in Ruth | Fr.Ruth |
+| Hexapla | Hex. |
+| Homiliae in Canticum | Hom.Cant. |
+| Homiliae in Exodum | Hom.Exod. |
+| Homiliae in Ezechielem | Hom.Ezech. |
+| Homiliae in Genesim | Hom.Gen. |
+| Homiliae in Isaiam | Hom.Isa. |
+| Homiliae in Jeremiam | Hom.Jer. |
+| In Jesu Nave homiliae xxvi | Hom.Jes.Nav. |
+| Homiliae in Job | Hom.Job |
+| Homiliae in Judices | Hom.Judic. |
+| Homiliae in Leviticum | Hom.Lev. |
+| Homiliae in Lucam | Hom.Luc. |
+| Homiliae in Numeros | Hom.Num. |
+| Homiliae in Psalmos | H.Ps. |
+| Homiliae in Psalmos (Codex Monacensis Graecus 314) | Hom.Ps. |
+| Homiliae in I Reges | Hom.1Reg. |
+| Exhortatio ad martyrium | Mart. |
+| De oratione (Peri proseuchēs) | Or. |
+| De pascha | Pasch. |
+| Philocalia | Philoc. |
+| De principiis (Peri archōn) First Principles | Princ. |
+| De resurrectione libri ii | Res. |
+| Scholia in Apocalypsem | Schol.Apoc. |
+| Scholia in Canticum canticorum | Schol.Cant. |
+| Scholia in Lucam | Schol.Luc. |
+| Scholia in Matthaeum | Schol.Matt. |
+| Selecta in Deuteronomium | Sel.Deut. |
+| Selecta in Exodum | Sel.Exod. |
+| Selecta in Ezechielem | Sel.Ezech. |
+| Selecta in Genesim | Sel.Gen. |
+| Selecta in Jesum Nave | Sel.Jes.Nav. |
+| Selecta in Job | Sel.Job |
+| Selecta in Judices | Sel.Judic. |
+| Selecta in Leviticum | Sel.Lev. |
+| Selecta in Numeros | Sel.Num. |
+| Selecta in Psalmos | Sel.Ps. |
