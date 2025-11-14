@@ -2,7 +2,7 @@
 
 - Definition of a quotation
 - Doctrine glossary
-- Biblical references
+- Biblical books and abbreviations
 
 ## Definition of a quotation
 Orige.net project aims to provide visual NA graphs of Origen’s use of biblical quotations in his works. A biblical quotation refers to a passage deliberately drawn from any of the biblical texts that Origen considered "canonical," regardless of the version or translation of the Bible he is using.  For the purposes of this project, the term “quotation” is understood as follows:
@@ -180,7 +180,7 @@ A quotation is a statement that maintains a degree of "otherness," indicating it
 168. **Woman**: References to both historical women and the theological category of “woman” in contrast to “man”.
 
 
-## Biblical references
+## Biblical books and abbreviations
 
 | **Biblical Books**             | **Abbreviations** |
 |--------------------------------|-------------------|
