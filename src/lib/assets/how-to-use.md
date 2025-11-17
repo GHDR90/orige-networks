@@ -8,7 +8,7 @@
 6.	 Tips & Best Practices
 7.	 Help and Tutorial
 
-## 1. What can you do with Orige.net
+## 1. What Can You Do with Orige.net
 
 Learning to use Orige.net does not require advance levels of digital literacy. Once you understand the basics, you can start exploring the relationships between Origen’s writings, his theological doctrines, and the biblical texts he quotes. 
 With Orige.net, you can:
