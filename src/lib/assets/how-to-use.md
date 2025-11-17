@@ -44,7 +44,7 @@ Once you type your search one or more nodes will appear. If you click on the nod
 
 If you click on a single node, you will see that another button appears, called “**Show extra degree of neighbours**”. If you click on that you will visualise other nodes that are related to your primary node via its attachments (either biblical references or Origen’s work references).
 
-<ins>Please note</ins> that the search must perfectly match the text of the reference. You can find abbreviations of Origen’s work and biblical books in the [Glossaries section](https://ghdr90.github.io/orige-networks/glossaries). Biblical quotations follow the following quotation style: Abbreviated biblical book + space + chapter + colon + versicule (e.g. Col 1:10); Origen’s work references follow the following: Abbreviated work’s name + full stop + chapter + verses. Chapter and verses are always separated by a full stop (eg. Comm.Jo. 5.7).
+ <ins>Please note</ins> that the search must perfectly match the text of the reference. You can find abbreviations of Origen’s work and biblical books in the [Glossaries section](https://ghdr90.github.io/orige-networks/glossaries). Biblical quotations follow the following quotation style: Abbreviated biblical book + space + chapter + colon + versicule (e.g. Col 1:10); Origen’s work references follow the following: Abbreviated work’s name + full stop + chapter + verses. Chapter and verses are always separated by a full stop (eg. Comm.Jo. 5.7).
 
 ## 4. Filtering Options
 
@@ -63,7 +63,7 @@ For example, if you select “predestination” and “foreknowledge” and the 
 
 You will notice that when you click one of the works, doctrines or biblical works a button will open at the top left called “show hidden neighbours”. For the use of this button see above the “free text search section”.
 
-<ins>Please note</ins> that you can use the following filters together: works and doctrines; doctrines and biblical works. You cannot use together the filters “works” and “biblical works” as the system does not allow it.
+ <ins>Please note</ins> that you can use the following filters together: works and doctrines; doctrines and biblical works. You cannot use together the filters “works” and “biblical works” as the system does not allow it.
 
 ## 5. Navigating the Network Graph: A Summary
 
@@ -77,9 +77,9 @@ Here you have some schematised summary on how to use the Network graph:
 - For a more precise analysis:
    - Identify nodes with many connections (high centrality) — key passages or quotations.
    - Look for clusters — groups of interconnected passages and quotations around specific doctrines.
--	<ins>To compare usage across doctrines</ins>: use the doctrine filter to select two or more doctrines and observe similarities or differences in Scripture references.
--	<ins>To compare across works</ins>: select two works in the work-filter and observe how each uses Scripture with respect to doctrine.
--	<ins>To examine one biblical text</ins>: search for a specific reference (e.g., John 1:1) and see how many of Origen’s passages cite it, and for which doctrines.
+-	 <ins>To compare usage across doctrines</ins>: use the doctrine filter to select two or more doctrines and observe similarities or differences in Scripture references.
+-	 <ins>To compare across works</ins>: select two works in the work-filter and observe how each uses Scripture with respect to doctrine.
+-	 <ins>To examine one biblical text</ins>: search for a specific reference (e.g., John 1:1) and see how many of Origen’s passages cite it, and for which doctrines.
 
 ## 6. Tips & Best Practices
 
