@@ -90,7 +90,7 @@ Here you have some schematised summary on how to use the Network graph:
 
 ## 6. Help and Tutorials
 
-As the project is still under development, video tutorials and presentation of the database will be produced in the upcoming months. Once produced, hyperlinks will be attached in this section. However, if you encounter any issues, please contact me at the following email: giovanni.hermanin@cas.au.dk. 
+As the project is still under development, video tutorials and presentation of the database will be produced in the upcoming months. Once produced, hyperlinks will be attached in this section. However, if you encounter any issues, please contact me at the following email: [giovanni.hermanin@cas.au.dk](giovanni.hermanin@cas.au.dk). 
 
 
 
