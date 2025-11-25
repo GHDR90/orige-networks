@@ -44,12 +44,5 @@ I would like to thank Aarhus University’s Centre for Humanities Computing, par
 
 Any use of this website and database in connection with scientific work must reference and acknowledge [Center for Humanities Computing](https://chc.au.dk), Aarhus University.
 
-<img src="https://github.com/user-attachments/assets/58842b6b-808a-49b7-85f2-3a919730f378" width="474" height="101" alt="image" />   <img src="https://github.com/user-attachments/assets/880281cd-badb-4e19-aac0-932c7a446681" width="101" height="101" alt="image" />   <img src="https://github.com/user-attachments/assets/e5046cc5-ceb2-4819-91cd-9281f1be4d35" width="308" height="98" />
-
-![EN-Funded by the EU-POS](https://github.com/user-attachments/assets/9ee885d2-6d93-412c-8641-17298b56184c)
-
-![csm_CHC_logo-turquoise-full-name_de1d69e41b](https://github.com/user-attachments/assets/5cfa35a1-3003-44f7-bebe-98ff79fb2727)
-
-
-
+![EN-Funded by the EU-POS](https://github.com/user-attachments/assets/c17a0944-274e-4e30-a3f4-3910f6c4cdde)  ![csm_CHC_logo-turquoise-full-name_de1d69e41b](https://github.com/user-attachments/assets/3dad5317-aae2-4e7f-9bb8-8c9475c7f53f) 
 
