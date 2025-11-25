@@ -44,8 +44,13 @@ I would like to thank Aarhus University’s Centre for Humanities Computing, par
 
 Any use of this website and database in connection with scientific work must reference and acknowledge [Center for Humanities Computing](https://chc.au.dk), Aarhus University.
 
-<img width="474" height="101" alt="image" src="https://github.com/user-attachments/assets/58842b6b-808a-49b7-85f2-3a919730f378" />   <img width="101" height="101" alt="image" src="https://github.com/user-attachments/assets/880281cd-badb-4e19-aac0-932c7a446681" />   <img width="308" height="98" alt="image" src="https://github.com/user-attachments/assets/e5046cc5-ceb2-4819-91cd-9281f1be4d35" />
+<img src="https://github.com/user-attachments/assets/58842b6b-808a-49b7-85f2-3a919730f378" width="474" height="101" alt="image" />   <img src="https://github.com/user-attachments/assets/880281cd-badb-4e19-aac0-932c7a446681" width="101" height="101" alt="image" />   <img src="https://github.com/user-attachments/assets/e5046cc5-ceb2-4819-91cd-9281f1be4d35" width="308" height="98" />
 
+
+
+![EN-Funded by the EU-POS](https://github.com/user-attachments/assets/d5f9bdb1-ccea-46de-a0d5-2746b533ed61)
+
+<img width="800" height="268" alt="csm_CHC_logo-turquoise-full-name_de1d69e41b" src="https://github.com/user-attachments/assets/581ba431-3052-4692-b1a4-24ce9cbb2027" />
 
 
 
