@@ -32,7 +32,7 @@ The platform employs [_sigma.js_](https://sigmajs.org/) and [_graphology_](https
 ## Download the Full Dataset
 The web app requires a JSON file containing all entries that are modelled in the graph. The JSON file with all the entries can be downloaded at the following link:
 
-https://pure.au.dk/portal/en/datasets/dataset-origenet-json/
+[https://pure.au.dk/portal/en/datasets/dataset-origenet-json/](https://pure.au.dk/portal/en/datasets/dataset-origenet-json/)
 
 Please note that the data collection is still in progress and therefore the files will be implemented continuously. 
 
