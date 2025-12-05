@@ -30,7 +30,7 @@ Open the platform and wait for the initial graph to load. By default, you will s
 
 Example:
 
-<img src="https://github.com/user-attachments/assets/5c75aeb4-ad7f-477f-8689-58e256ad9c6d" alt="Fig 2" width="350" height="223">
+<img src=(https://github.com/user-attachments/assets/5c75aeb4-ad7f-477f-8689-58e256ad9c6d) alt="Fig 2" width="350" height="223">
 
 Click on a node to view its label (e.g., Princ. 1.1.1 or John 1:1) and metadata (work, doctrine, etc.). Clicking a node reveals its associated metadata in a panel on the left side of the interface. If you are looking at a biblical node (yellow nodes, e.g. Rom 10:21) the box will show the work it is cited, the doctrines related to the biblical quotation and the Origenian passages where it is referred. If you click on a passage from Origen’s works (blue nodes, e.g. Cels. 8.26) the box will show you the related doctrines and biblical quotation(s). You will also see the related nodes connected through an **edge (a line)**.
 
