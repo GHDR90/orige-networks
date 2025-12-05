@@ -28,7 +28,11 @@ Open the platform and wait for the initial graph to load. By default, you will s
 -	Passages from Origen of Alexandria’s works **(blue nodes)**
 -	Biblical quotations referenced by Origen **(yellow nodes)**
 
-Click on a node to view its label (e.g., Princ. 1.1.1 or John 1:1) and metadata (work, doctrine, etc.). When you click on one a box will appear on the left of your screen. If you are looking at a biblical node (yellow nodes, e.g. Rom 10:21) the box will show the work it is cited, the doctrines related to the biblical quotation and the passages where it is referred. If you click on a passage from Origen’s works (blue nodes, e.g. Cels. 8.26) the box will show you the related doctrines and biblical quotation(s). You will also see the related nodes connected through an **edge (a line)**.
+Example:
+
+<img src="https://github.com/user-attachments/assets/5c75aeb4-ad7f-477f-8689-58e256ad9c6d" alt="Fig 2" width="350" height="223">
+
+Click on a node to view its label (e.g., Princ. 1.1.1 or John 1:1) and metadata (work, doctrine, etc.). Clicking a node reveals its associated metadata in a panel on the left side of the interface. If you are looking at a biblical node (yellow nodes, e.g. Rom 10:21) the box will show the work it is cited, the doctrines related to the biblical quotation and the Origenian passages where it is referred. If you click on a passage from Origen’s works (blue nodes, e.g. Cels. 8.26) the box will show you the related doctrines and biblical quotation(s). You will also see the related nodes connected through an **edge (a line)**.
 
 ## 3. Free-Text Search
 
@@ -42,7 +46,7 @@ Here I explain how to use the **free text bar**. Use the search bar at the top t
 
 Once you type your search one or more nodes will appear. If you click on the node, a box will appear on the left of your screen with all the related metadata. You will notice that a button will open at the top left called “**show hidden neighbours**”. If you click on that, you will be able to visualise the nodes (biblical passages or work references) related to the one matching your search. For example, if you search for Princ. 2.2.2 and you click on the “show hidden neighbours” button, you will visualise the network of biblical quotations related to that passage. 
 
-If you click on a single node, you will see that another button appears, called “**Show extra degree of neighbours**”. If you click on that you will visualise other nodes that are related to your primary node via its attachments (either biblical references or Origen’s work references).
+If you click on a single node, you will see that another button appears, called “**Show extra degree of neighbours**”. If you click on that you will visualise other nodes that are related to your primary node via its attachments (either biblical references or Origen’s work references). Another possible use of this function regards the visualisation of all biblical passages connected to a specific verse (e.g., those associated with Heb 1:3). First, the verse must be searched using the free-text bar. After clicking on Heb 1:3 node, clear the search field and click on “show extra degree of neighbours.” The interface will then display all biblical citations linked to that passage, allowing users to explore its broader intertextual network.
 
  **Please note** that the search must perfectly match the text of the reference. You can find abbreviations of Origen’s work and biblical books in the [Glossaries section](https://ghdr90.github.io/orige-networks/glossaries). Biblical quotations follow the following quotation style: Abbreviated biblical book + space + chapter + colon + versicule (e.g. Col 1:10); Origen’s work references follow the following: Abbreviated work’s name + full stop + chapter + verses. Chapter and verses are always separated by a full stop (eg. Comm.Jo. 5.7).
 
