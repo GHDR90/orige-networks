@@ -30,7 +30,14 @@ All data have been manually collected and revised by Dr. [Giovanni Hermanin de R
 The platform employs [_sigma.js_](https://sigmajs.org/) and [_graphology_](https://graphology.github.io/) to render interactive network graphs in the browser, enabling users to analyse centrality, proximity, and connections between scriptural and theological nodes. The website and codes are developed by [Bjarke Vognstrup Fog](https://pure.au.dk/portal/en/persons/bfog@cc.au.dk) at the [Center for Humanities Computing](https://chc.au.dk), Aarhus University. Please refer to the [How to use the database](https://ghdr90.github.io/orige-networks/how-to-use) page for further instructions and tutorials.
 
 ## Download the Full Dataset
-The web app requires a JSON file containing all entries that are modelled in the graph. The JSON file with all the entries can be downloaded at the following link:
+
+Orige.net is an Open Source project. The application is built as a pre-rendered, static site using Svelte, [SvelteKit](https://svelte.dev/docs/kit/adapter-static), and the static adapter . The graph database is modeled using [Graphology](https://graphology.github.io/) and rendered with [SigmaJS](https://www.sigmajs.org/). The web app requires a JSON file containing all entries that are modelled in the graph.
+
+The entire codebase for the site is available in my Github repo at the following link:
+
+[https://github.com/GHDR90/orige-networks](https://github.com/GHDR90/orige-networks) 
+
+The JSON file with all the entries can be downloaded at the following link:
 
 [https://pure.au.dk/portal/en/datasets/dataset-origenet-json/](https://pure.au.dk/portal/en/datasets/dataset-origenet-json/)
 
@@ -40,7 +47,7 @@ Please note that the data collection is still in progress and therefore the file
 ## Acknowledgments
 The Orige.net project is funded from the European Union under Horizon Europe research and innovation programme HORIZON-MSCA-2023-PF-01, Marie Sklodowska-Curie grant agreement 101149891. Funded by the European Union. Views and opinions expressed are however those of the author only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them.
 
-I would like to thank Aarhus University’s Centre for Humanities Computing, particularly [Bjarke Vognstrup Fog](https://pure.au.dk/portal/en/persons/bfog@cc.au.dk) and [Peter Bjerregaard Vahlstrup](https://pure.au.dk/portal/en/persons/imvpbv%40cas.au.dk). A special thanks goes also to Aarhus University’s Department of Theology, particularly to prof. [Anders-Christian Jacobsen](https://pure.au.dk/portal/en/persons/alj%40cas.au.dk).
+I would like to thank Aarhus University’s Centre for Humanities Computing, particularly [Bjarke Vognstrup Fog](https://pure.au.dk/portal/en/persons/bfog@cc.au.dk), who designed and developed the codes and the website, and [Peter Bjerregaard Vahlstrup](https://pure.au.dk/portal/en/persons/imvpbv%40cas.au.dk). A special thanks goes also to Aarhus University’s Department of Theology, particularly to prof. [Anders-Christian Jacobsen](https://pure.au.dk/portal/en/persons/alj%40cas.au.dk).
 
 Any use of this website and database in connection with scientific work must reference and acknowledge [Center for Humanities Computing](https://chc.au.dk), Aarhus University.
 
