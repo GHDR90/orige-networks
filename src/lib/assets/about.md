@@ -27,6 +27,8 @@ The aim of the project is to allow scholars to reconstruct Origen’s "textual m
 
 All data have been manually collected and revised by Dr. [Giovanni Hermanin de Reichenfeld](https://pure.au.dk/portal/en/persons/giovanni.hermanin%40cas.au.dk/publications/) and structured in a JSON format. Data collection involved reading all of Origen’s works and manually assigning specific doctrines and biblical quotations to each passage. Grounded in rigorous scholarly practice, this process inevitably reflects a degree of interpretation, as the identification and categorisation of doctrinal elements require informed hermeneutic judgment which embraces the interpretive framework of the scholar who undertakes it.
 
+Collaborations are currently being established between Orige.net and the section of Biblindex project dedicated to Origen. BiblIndex is an index of biblical references found in early Christian literature, both Western and Eastern texts, so far covering the first three centuries, along with part of the following centuries. Further forms of collaboration are under consideration and will implemented shortly. See: [https://www.biblindex.org/en/authors/origenes](https://www.biblindex.org/en/authors/origenes).
+
 The website and codes are developed by [Bjarke Vognstrup Fog](https://pure.au.dk/portal/en/persons/bfog@cc.au.dk) at the [Center for Humanities Computing](https://chc.au.dk), Aarhus University. Please refer to the [How to use the database](https://ghdr90.github.io/orige-networks/how-to-use) page for further instructions and tutorials.
 
 ## Download the Full Dataset
