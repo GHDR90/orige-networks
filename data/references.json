@@ -1,5 +1,5 @@
 {
-  "lastInsertId": 3563,
+  "lastInsertId": 3663,
   "entries": [
     {
       "work": "Contra Celsum  (Cels.)",
@@ -79217,7 +79217,7 @@
     {
       "id": 3479,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 1.1",
+      "reference": "Pasch. 1.1.1",
       "quotations": [
         "Jer 38:2",
         "2Chr 30:1",
@@ -79230,13 +79230,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774359764546,
-        "edited": 1774359764546
+        "edited": 1776758174534
       }
     },
     {
       "id": 3480,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 1.2",
+      "reference": "Pasch. 1.1.2",
       "quotations": [
         "Exod 12:3",
         "Exod 12:15",
@@ -79263,13 +79263,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774359988449,
-        "edited": 1774359988449
+        "edited": 1776758183295
       }
     },
     {
       "id": 3481,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.1.1",
+      "reference": "Pasch. 1.2.1.1",
       "quotations": [
         "Exod 12:1",
         "Exod 12:6",
@@ -79287,13 +79287,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774360124442,
-        "edited": 1774360161399
+        "edited": 1776758191925
       }
     },
     {
       "id": 3482,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.1.2",
+      "reference": "Pasch. 1.2.1.2",
       "quotations": [
         "Exod 12:1",
         "Exod 12:2",
@@ -79318,13 +79318,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774360359124,
-        "edited": 1774360407564
+        "edited": 1776758201885
       }
     },
     {
       "id": 3483,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.1.3",
+      "reference": "Pasch. 1.2.1.3",
       "quotations": [
         "Exod 12:1",
         "Gen 1:1",
@@ -79345,13 +79345,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774360810757,
-        "edited": 1774360810757
+        "edited": 1776758213434
       }
     },
     {
       "id": 3484,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.1.4",
+      "reference": "Pasch. 1.2.1.4",
       "quotations": [
         "Num 6:14",
         "1Cor 5:7",
@@ -79383,13 +79383,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774361130401,
-        "edited": 1774361130401
+        "edited": 1776758222422
       }
     },
     {
       "id": 3485,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.2.1",
+      "reference": "Pasch. 1.2.2.1",
       "quotations": [
         "Exod 12:3",
         "Exod 12:6",
@@ -79402,13 +79402,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774361240084,
-        "edited": 1774361240084
+        "edited": 1776758230315
       }
     },
     {
       "id": 3486,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.2.3",
+      "reference": "Pasch. 1.2.2.3",
       "quotations": [
         "Exod 12:3",
         "Exod 12:6",
@@ -79437,13 +79437,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774361547353,
-        "edited": 1774361547353
+        "edited": 1776758237643
       }
     },
     {
       "id": 3487,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.2.4",
+      "reference": "Pasch. 1.2.2.4",
       "quotations": [
         "Mark 6:39",
         "Luke 9:13",
@@ -79457,13 +79457,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774361638707,
-        "edited": 1774361638707
+        "edited": 1776758246749
       }
     },
     {
       "id": 3488,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.3.2",
+      "reference": "Pasch. 1.2.3.2",
       "quotations": [
         "Exod 12:5"
       ],
@@ -79475,13 +79475,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774361726552,
-        "edited": 1774361741479
+        "edited": 1776758256523
       }
     },
     {
       "id": 3489,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.3.3",
+      "reference": "Pasch. 1.2.3.3",
       "quotations": [
         "Exod 12:5",
         "John 1:29",
@@ -79508,13 +79508,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774362083641,
-        "edited": 1774362083641
+        "edited": 1776758266291
       }
     },
     {
       "id": 3490,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.4.1",
+      "reference": "Pasch. 1.2.4.1",
       "quotations": [
         "1John 2:18",
         "John 1:9",
@@ -79526,13 +79526,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774362183412,
-        "edited": 1774362183412
+        "edited": 1776758277388
       }
     },
     {
       "id": 3491,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.4.2",
+      "reference": "Pasch. 1.2.4.2",
       "quotations": [
         "Exod 12:23"
       ],
@@ -79544,13 +79544,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774362233026,
-        "edited": 1774362277495
+        "edited": 1776758286258
       }
     },
     {
       "id": 3492,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.5.1",
+      "reference": "Pasch. 1.2.5.1",
       "quotations": [
         "Exod 12:8",
         "Exod 12:9",
@@ -79575,13 +79575,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774362549718,
-        "edited": 1774362549718
+        "edited": 1776758294897
       }
     },
     {
       "id": 3493,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.5.3",
+      "reference": "Pasch. 1.2.5.3",
       "quotations": [
         "Exod 12:9",
         "Matt 11:15",
@@ -79617,13 +79617,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774362979209,
-        "edited": 1774362979209
+        "edited": 1776758304080
       }
     },
     {
       "id": 3494,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.6.1",
+      "reference": "Pasch. 1.2.6.1",
       "quotations": [
         "Exod 12:10"
       ],
@@ -79636,13 +79636,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774363068707,
-        "edited": 1774363068707
+        "edited": 1776758312524
       }
     },
     {
       "id": 3495,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.6.2",
+      "reference": "Pasch. 1.2.6.2",
       "quotations": [
         "Exod 12:20",
         "1Cor 5:7",
@@ -79666,13 +79666,13 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774363440769,
-        "edited": 1774363440769
+        "edited": 1776758321447
       }
     },
     {
       "id": 3496,
       "work": "De pascha  (Pasch.)",
-      "reference": "Pasch. 2.6.3",
+      "reference": "Pasch. 1.2.6.3",
       "quotations": [
         "1Cor 13:9",
         "1Cor 13:10",
@@ -79698,7 +79698,7 @@
       "relatedQuotations": [],
       "_meta": {
         "created": 1774363700954,
-        "edited": 1774363700954
+        "edited": 1776758330383
       }
     },
     {
@@ -81555,6 +81555,2959 @@
       "_meta": {
         "created": 1775730594840,
         "edited": 1775730594840
+      }
+    },
+    {
+      "id": 3565,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 1.1-5.7",
+      "quotations": [
+        "John 1:1",
+        "John 1:2",
+        "John 1:3",
+        "2Tim 4:1",
+        "Phil 2:6",
+        "Col 1:15",
+        "Gen 2:24",
+        "1Cor 6:17",
+        "John 10:30",
+        "Is 43:10",
+        "Deut 32:39",
+        "Lev 19:15"
+      ],
+      "doctrines": [
+        "Rule of faith",
+        "Ecclesiastical Ministers",
+        "Prayer",
+        "Trinity",
+        "God the Father",
+        "God the Son",
+        "Christ/Saviour",
+        "Modalism/Monarchianism",
+        "Doctrine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1775810232569,
+        "edited": 1775810308445
+      }
+    },
+    {
+      "id": 3566,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 5.8-6.6",
+      "quotations": [
+        "1Cor 15:12",
+        "1Cor 15:44",
+        "Rom 6:9",
+        "1Cor 15:23"
+      ],
+      "doctrines": [
+        "Eschatology",
+        "Body and corporeality",
+        "Christ/Saviour",
+        "Jesus as a man/Jesus' Soul",
+        "Resurrection",
+        "Heresies"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1775810592807,
+        "edited": 1775810592807
+      }
+    },
+    {
+      "id": 3567,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 6.7-8.17",
+      "quotations": [
+        "Luke 23:46",
+        "1Thess 5:23",
+        "Rom 8:16",
+        "1Cor 2:11",
+        "Ps 15:10",
+        "John 20:17"
+      ],
+      "doctrines": [
+        "Human being",
+        "Body and corporeality",
+        "Human Spirit",
+        "Soul",
+        "Jesus as a man/Jesus' Soul",
+        "Passion/Cross",
+        "Resurrection",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1775811160222,
+        "edited": 1775811160222
+      }
+    },
+    {
+      "id": 3568,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 8.18-10.13",
+      "quotations": [
+        "Prov 20:9",
+        "1Tim 6:20",
+        "1Cor 6:9",
+        "1Cor 6:10"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Punishment",
+        "Faith",
+        "Merit",
+        "Doctrine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1775811630893,
+        "edited": 1775811630893
+      }
+    },
+    {
+      "id": 3569,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 10.14-12.14",
+      "quotations": [
+        "Lev 17:11",
+        "Deut 12:23",
+        "2Cor 4:16",
+        "Rom 7:22",
+        "Gen 2:7",
+        "Gen 1:26"
+      ],
+      "doctrines": [
+        "Death",
+        "Rule of faith",
+        "Body and corporeality",
+        "Soul"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1775812637621,
+        "edited": 1775812637621
+      }
+    },
+    {
+      "id": 3570,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 12.15-15.27",
+      "quotations": [
+        "Matt 7:6",
+        "Matt 13:45",
+        "Matt 23:23",
+        "2Cor 3:18",
+        "Luke 3:8",
+        "Matt 6:7",
+        "Gen 2:9",
+        "Col 3:8",
+        "1Cor 1:10",
+        "Mark 4:11",
+        "1Cor 5:12"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Spiritual Christians",
+        "Simple Christians",
+        "Merit",
+        "Progress",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1775813230009,
+        "edited": 1776240260697
+      }
+    },
+    {
+      "id": 3571,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 15.30-18.18",
+      "quotations": [
+        "Gen 1:26",
+        "Gen 1:27",
+        "Col 3:9",
+        "Col 3:10",
+        "Lev 17:11",
+        "Ps 13:3",
+        "Ps 19:8",
+        "Ps 19:9",
+        "Ps 119:18",
+        "Matt 11:15",
+        "Is 42:18",
+        "Is 42:19",
+        "Ps 58:3",
+        "Ps 58:4",
+        "Ps 58:5"
+      ],
+      "doctrines": [
+        "Human being",
+        "Creation/Nature",
+        "Image and likeness",
+        "Body and corporeality",
+        "Matter",
+        "Soul",
+        "Senses (Spiritual and Human)"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776241050185,
+        "edited": 1776241050185
+      }
+    },
+    {
+      "id": 3572,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 18.19-20.30",
+      "quotations": [
+        "2Cor 2:15",
+        "2Cor 2:16",
+        "Song 1:4",
+        "Ps 38:5",
+        "Ps 34:8",
+        "1Pet 2:3",
+        "Mark 5:30",
+        "Luke 9:45",
+        "Luke 8:46",
+        "1John 1:5",
+        "Ps 141:2",
+        "Prov 3:23",
+        "Eccl 2:14",
+        "Ps 18:9",
+        "1Cor 11:3"
+      ],
+      "doctrines": [
+        "Human being",
+        "Senses (Spiritual and Human)"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776242031890,
+        "edited": 1776242031890
+      }
+    },
+    {
+      "id": 3573,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 20.31-23.1",
+      "quotations": [
+        "Jer 4:19",
+        "Gal 4:19",
+        "Ps 6:1",
+        "Ps 6:2",
+        "Ps 141:7",
+        "Ps 35:10",
+        "Is 46:12",
+        "Matt 10:30",
+        "Gen 9:5",
+        "Ezek 33:6"
+      ],
+      "doctrines": [
+        "Body and corporeality",
+        "Soul",
+        "Senses (Spiritual and Human)"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776242341005,
+        "edited": 1776242341005
+      }
+    },
+    {
+      "id": 3574,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 23.2-24.24",
+      "quotations": [
+        "Gen 1:26",
+        "Phil 1:23",
+        "Luke 16:23",
+        "Luke 2:29",
+        "Gen 15:15",
+        "Eph 13:14",
+        "Eph 13:15",
+        "Num 20:28",
+        "Num 20:29",
+        "Eccl 4:14",
+        "2Cor 5:24"
+      ],
+      "doctrines": [
+        "Eschatology",
+        "Martyrdom",
+        "Human being",
+        "Saints/Sanctification",
+        "Immateriality",
+        "Body and corporeality",
+        "Soul",
+        "Senses (Spiritual and Human)",
+        "Resurrection",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776242864388,
+        "edited": 1776328778029
+      }
+    },
+    {
+      "id": 3575,
+      "work": "Diologus cum Heraclide  (Dial.)",
+      "reference": "Dial. 24.25-28.25",
+      "quotations": [
+        "Rom 6:10",
+        "Ezek 18:4",
+        "Gen 5:5",
+        "Rev 9:6",
+        "Num 23:10",
+        "1Tim 6:16",
+        "2Cor 5:15",
+        "Heb 2:9",
+        "Deut 30:15",
+        "Jer 1:8",
+        "John 11:25",
+        "John 14:6",
+        "1Cor 13:12",
+        "Lam 4:20",
+        "Is 6:1",
+        "Jer 1:5",
+        "Ezek 10:1",
+        "Ezek 1:15",
+        "Ezek 1:16",
+        "Col 3:3",
+        "Col 3:4",
+        "2Cor 5:4",
+        "2Cor 5:6",
+        "2Cor 5:8"
+      ],
+      "doctrines": [
+        "Eschatology",
+        "Death",
+        "Body and corporeality",
+        "Soul",
+        "Progress"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776243485066,
+        "edited": 1776243520012
+      }
+    },
+    {
+      "id": 3576,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 1.1",
+      "quotations": [
+        "Acts 2:17",
+        "2Cor 3:14",
+        "Luke 10:23",
+        "2Cor 3:6",
+        "Dan 13:22",
+        "Dan 13:23",
+        "2Cor 3:16",
+        "2Cor 3:17",
+        "Ps 118:18",
+        "Prov 9:9"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Literal Exegesis"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776245136128,
+        "edited": 1776245136128
+      }
+    },
+    {
+      "id": 3577,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 1.2",
+      "quotations": [
+        "Lev 1:1",
+        "Lev 2:1",
+        "Lev 2:4",
+        "Lev 2:5",
+        "Lev 2:14",
+        "Lev 2:11",
+        "Lev 2:13",
+        "Lev 3:1",
+        "Lev 3:6",
+        "Lev 3:7",
+        "Lev 3:12",
+        "Lev 4:3",
+        "Lev 4:13",
+        "Lev 4:22",
+        "Lev 4:27",
+        "Lev 1:3",
+        "Lev 1:4",
+        "Lev 1:5"
+      ],
+      "doctrines": [
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776245510922,
+        "edited": 1776328763126
+      }
+    },
+    {
+      "id": 3578,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 1.2",
+      "quotations": [
+        "Lev 1:3",
+        "Luke 15:23",
+        "Luke 10:30",
+        "Luke 10:32",
+        "Luke 15:10",
+        "Matt 1:1",
+        "Is 53:9",
+        "John 1:11",
+        "Lev 4:12",
+        "Lev 21:38",
+        "Heb 9:14"
+      ],
+      "doctrines": [
+        "Christ/Saviour",
+        "Sacrifice",
+        "Feminine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776245690678,
+        "edited": 1776245728718
+      }
+    },
+    {
+      "id": 3579,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 1.3",
+      "quotations": [
+        "Lev 1:4",
+        "Lev 1:5",
+        "Matt 27:1",
+        "John 18:13",
+        "Lev 4:7",
+        "Luke 13:33",
+        "Eph 1:22",
+        "Eph 1:23",
+        "Heb 12:23",
+        "Col 1:20",
+        "Heb 10:20",
+        "Heb 9:24",
+        "Heb 7:25"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Celestial Beings/Stars/Powers",
+        "Christ/Saviour",
+        "Passion/Cross",
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776245981986,
+        "edited": 1776245981986
+      }
+    },
+    {
+      "id": 3580,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 1.4",
+      "quotations": [
+        "Lev 1:4",
+        "Lev 1:6",
+        "Lev 1:7",
+        "Lev 1:8",
+        "Lev 1:9",
+        "2Cor 3:14",
+        "Matt 9:20",
+        "Luke 7:44",
+        "Luke 7:46",
+        "John 13:25",
+        "John 21:20",
+        "Heb 5:12",
+        "Rom 14:1",
+        "2Cor 5:16"
+      ],
+      "doctrines": [
+        "Spiritual Christians",
+        "Simple Christians",
+        "Teaching",
+        "Preaching",
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Christ/Saviour",
+        "Passion/Cross"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776246255779,
+        "edited": 1776246444984
+      }
+    },
+    {
+      "id": 3581,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 1.4",
+      "quotations": [
+        "Lev 1:9",
+        "John 13:8",
+        "John 13:10"
+      ],
+      "doctrines": [
+        "Baptism"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776246501139,
+        "edited": 1776246517340
+      }
+    },
+    {
+      "id": 3582,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 1.5",
+      "quotations": [
+        "Lev 1:3",
+        "1Cor 9:27",
+        "Col 3:5",
+        "Lev 1:6",
+        "Rom 12:1",
+        "Matt 25:1",
+        "1Pet 4:11",
+        "Rev 1:6"
+      ],
+      "doctrines": [
+        "Continence/Self Control",
+        "Emotions/Passions",
+        "Body and corporeality",
+        "Senses (Spiritual and Human)",
+        "Sacrifice",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776247031376,
+        "edited": 1776247031376
+      }
+    },
+    {
+      "id": 3583,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 2.1",
+      "quotations": [
+        "Lev 4:3",
+        "Lev 4:27",
+        "Lev 1:2",
+        "Lev 1:10",
+        "Lev 1:14",
+        "Lev 2:1",
+        "Lev 2:4",
+        "Lev 2:5",
+        "Lev 2:14",
+        "Lev 2:15",
+        "Lev 3:1",
+        "Lev 3:6",
+        "Lev 3:12",
+        "Lev 4:2",
+        "Lev 4:12",
+        "Lev 4:13",
+        "Luke 23:24",
+        "Lev 4:22",
+        "Lev 4:23",
+        "Lev 4:24",
+        "Lev 4:25",
+        "Lev 4:26",
+        "Lev 4:27",
+        "Lev 5:7",
+        "Lev 5:11"
+      ],
+      "doctrines": [
+        "Sin/Transgression"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776247845494,
+        "edited": 1776247845494
+      }
+    },
+    {
+      "id": 3584,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 2.2",
+      "quotations": [
+        "Lev 1:1",
+        "Lev 2:1",
+        "Lev 4:3",
+        "Lev 4:13",
+        "Lev 4:22",
+        "Lev 4:27",
+        "Gen 1:26",
+        "Lev 1:5",
+        "Lev 1:10",
+        "Lev 1:14",
+        "Song 5:12",
+        "Song 1:10",
+        "Lev 1:4",
+        "1Cor 2:14",
+        "1Cor 2:15"
+      ],
+      "doctrines": [
+        "Spiritual Christians",
+        "Simple Christians",
+        "Human being",
+        "Saints/Sanctification",
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776248116906,
+        "edited": 1776248116906
+      }
+    },
+    {
+      "id": 3585,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 2.2",
+      "quotations": [
+        "Lev 2:14",
+        "Exod 23:16",
+        "Deut 16:9",
+        "Heb 10:1",
+        "Acts 2:3",
+        "Acts 2:4",
+        "Acts 2:13",
+        "Lev 2:14",
+        "2Cor 2:15",
+        "Lev 3:1",
+        "Heb 5:14",
+        "Lev 4:1",
+        "Lev 4:2",
+        "Gen 1:26",
+        "Gal 5:22",
+        "Gal 6:8"
+      ],
+      "doctrines": [
+        "Human Spirit",
+        "Soul",
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776248356767,
+        "edited": 1776248356767
+      }
+    },
+    {
+      "id": 3586,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 2.3",
+      "quotations": [
+        "Lev 4:3",
+        "Heb 5:1",
+        "Heb 7:27",
+        "Heb 7:28",
+        "1Pet 2:22",
+        "Lev 4:7",
+        "Lev 1:3",
+        "Lev 1:5",
+        "Lev 4:12",
+        "Lev 4:11",
+        "Lev 4:9",
+        "Col 1:20",
+        "Rom 5:14",
+        "Heb 13:12",
+        "Gen 32:1",
+        "Gen 32:2",
+        "Gen 3:19",
+        "Luke 13:7",
+        "Phil 2:7",
+        "Col 2:9",
+        "Lev 4:13"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Ecclesiastical Ministers",
+        "Christ/Saviour",
+        "Docetism",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776261561264,
+        "edited": 1776261561264
+      }
+    },
+    {
+      "id": 3587,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 2.4",
+      "quotations": [
+        "Lev 4:3",
+        "Luke 15:23",
+        "Lev 4:22",
+        "Lev 4:23",
+        "Lev 4:27",
+        "Lev 4:28",
+        "Matt 5:13",
+        "Rom 14:15",
+        "Mark 1:4",
+        "Luke 11:41",
+        "Matt 6:14",
+        "Matt 6:15",
+        "Matt 6:12",
+        "Jas 5:20",
+        "Luke 7:47",
+        "1Pet 4:8",
+        "Ps 6:7",
+        "Ps 41:4",
+        "Ps 31:5",
+        "Jas 5:14",
+        "Jas 5:15",
+        "Rom 6:3",
+        "Matt 18:35",
+        "Is 38:14",
+        "Ps 1:2",
+        "Rom 12:9",
+        "1Cor 13:13",
+        "Matt 19:19",
+        "John 15:13",
+        "Lev 2:4",
+        "1Cor 5:8",
+        "Ps 101:4"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Forgiveness",
+        "Redemption/Justification",
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776262176780,
+        "edited": 1776262176780
+      }
+    },
+    {
+      "id": 3588,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 2.5",
+      "quotations": [
+        "Lev 4:27",
+        "Lev 4:28",
+        "John 3:31",
+        "Phil 3:20",
+        "Col 3:1",
+        "Phil 1:24",
+        "Phil 1:25"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Spiritual Christians",
+        "Human being",
+        "Sensible World"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776262505004,
+        "edited": 1776262516465
+      }
+    },
+    {
+      "id": 3589,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 2.5",
+      "quotations": [
+        "Lev 4:27",
+        "Exod 12:3",
+        "John 1:29",
+        "Is 11:11",
+        "Lev 4:28",
+        "Ps 50:19",
+        "Hos 6:6",
+        "Ps 49:14",
+        "Rom 16:27"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776262756256,
+        "edited": 1776262756256
+      }
+    },
+    {
+      "id": 3590,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.1",
+      "quotations": [
+        "Lev 5:1",
+        "Lev 5:2",
+        "Lev 4:3",
+        "2Cor 5:21",
+        "1Pet 2:22",
+        "1Pet 2:24",
+        "Phil 2:6",
+        "Phil 2:7",
+        "Eph 5:2",
+        "Luke 2:3",
+        "Rom 10:21",
+        "Ps 28:3",
+        "Matt 27:25",
+        "2Cor 5:1"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Redemption/Justification",
+        "Christ/Saviour",
+        "Passion/Cross",
+        "Sacrifice",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776328745972,
+        "edited": 1776328745972
+      }
+    },
+    {
+      "id": 3591,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.2",
+      "quotations": [
+        "Lev 5:1",
+        "Lev 5:2",
+        "Matt 8:15",
+        "Matt 8:16",
+        "Matt 8:17",
+        "Ps 109:4"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776329031469,
+        "edited": 1776329031469
+      }
+    },
+    {
+      "id": 3592,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.3",
+      "quotations": [
+        "Lev 5:2",
+        "Lev 5:3",
+        "2Kgs 13:21"
+      ],
+      "doctrines": [
+        "Jews"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776329161475,
+        "edited": 1776329161475
+      }
+    },
+    {
+      "id": 3593,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.3",
+      "quotations": [
+        "Lev 5:2",
+        "Lev 5:3",
+        "1Cor 7:1",
+        "Matt 7:28",
+        "Mark 5:25",
+        "Luke 8:43",
+        "Luke 8:45",
+        "Luke 8:46",
+        "1Cor 5:9",
+        "1Cor 5:10",
+        "1Cor 5.11",
+        "1Tim 5:6",
+        "Ps 35:7",
+        "Deut 33:1",
+        "2Kgs 1:10",
+        "Ezek 34:31",
+        "John 10:27",
+        "Matt 11:15",
+        "1Pet 5:8",
+        "1Pet 5:9",
+        "Acts 20:29",
+        "Titus 1:14",
+        "2Tim 3:5"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Church",
+        "Repentance"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776329718106,
+        "edited": 1776329718106
+      }
+    },
+    {
+      "id": 3594,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.3",
+      "quotations": [
+        "Lev 5:1",
+        "Lev 5:2",
+        "Luke 8:43",
+        "Luke 8:45",
+        "Luke 8:46"
+      ],
+      "doctrines": [
+        "Sex"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776329782000,
+        "edited": 1776329782000
+      }
+    },
+    {
+      "id": 3595,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.4",
+      "quotations": [
+        "Lev 5:4",
+        "Lev 5:5",
+        "Lev 5:6",
+        "1Cor 9:27",
+        "Ps 118:106",
+        "Rom 7:15",
+        "Gal 5:17",
+        "2Cor 12:10",
+        "Deut 32:39",
+        "1Pet 3:18",
+        "Rom 7:25"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Sex"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776330209330,
+        "edited": 1776330209330
+      }
+    },
+    {
+      "id": 3596,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.4",
+      "quotations": [
+        "Lev 5:4",
+        "Lev 5:5",
+        "John 7:4",
+        "Is 43:26",
+        "1Cor 5:5",
+        "Luke 16:25",
+        "Ps 31:5",
+        "Prov 8:17"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Devil",
+        "Repentance",
+        "Confession"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776330370999,
+        "edited": 1776330370999
+      }
+    },
+    {
+      "id": 3597,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.5",
+      "quotations": [
+        "Heb 9:14",
+        "Heb 10:1",
+        "Lev 3:3",
+        "Lev 4:6",
+        "Lev 4:17",
+        "Rev 1:4",
+        "Lev 4:7",
+        "Lev 4:18",
+        "2Tim 3:1",
+        "Rom 11:25",
+        "Rom 11:26",
+        "Lev 2:5",
+        "Lev 2:4"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Christ/Saviour",
+        "Jesus as a man/Jesus' Soul",
+        "Passion/Cross",
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776331557359,
+        "edited": 1776331557359
+      }
+    },
+    {
+      "id": 3598,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.6",
+      "quotations": [
+        "Lev 5:6",
+        "Lev 5:14",
+        "Lev 5:15",
+        "Lev 5:16",
+        "Lev 5:7",
+        "Lev 5:8",
+        "Lev 5:9",
+        "Lev 5:10",
+        "Lev 5:11",
+        "Matt 5:27"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Church",
+        "Ecclesiastical Ministers"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776331907699,
+        "edited": 1776331907699
+      }
+    },
+    {
+      "id": 3599,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.7",
+      "quotations": [
+        "Lev 5:15",
+        "Lev 5:16",
+        "Matt 5:8",
+        "Matt 11:15",
+        "2Cor 2:15",
+        "Ps 33:9",
+        "1John 1:1"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Teaching",
+        "Preaching",
+        "Senses (Spiritual and Human)"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776332126983,
+        "edited": 1776332126983
+      }
+    },
+    {
+      "id": 3600,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.8",
+      "quotations": [
+        "Lev 5:15",
+        "Prov 13:8",
+        "Luke 16:12",
+        "Ps 143:4",
+        "Zech 14:14",
+        "Gen 13:2",
+        "Col 2:3",
+        "Matt 13:52",
+        "1Cor 1:5",
+        "Gen 22:13",
+        "Song 5:12"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Faith",
+        "Grace",
+        "Wealth (Riches)"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776332818635,
+        "edited": 1776332818635
+      }
+    },
+    {
+      "id": 3601,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.8",
+      "quotations": [
+        "Lev 1:5",
+        "Lev 5:15",
+        "John 10:16",
+        "Lev 5:7",
+        "Song 1:10",
+        "Song 5:12",
+        "Lev 2:5",
+        "Matt 13:23",
+        "Matt 24:41"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Sacred Scriptures",
+        "Mysteries",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776333498728,
+        "edited": 1776333498728
+      }
+    },
+    {
+      "id": 3602,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 3.8",
+      "quotations": [
+        "Lev 5:15",
+        "Ps 11:7",
+        "Matt 25:14",
+        "Matt 25:15",
+        "Matt 20:8",
+        "Matt 20:9",
+        "Jer 6:30",
+        "1Thess 5:21",
+        "1Cor 11:19",
+        "Lev 5:15",
+        "1Pet 1:19",
+        "1Pet 4:11",
+        "Rev 1:6"
+      ],
+      "doctrines": [
+        "Faith",
+        "Heresies"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776337340186,
+        "edited": 1776337340186
+      }
+    },
+    {
+      "id": 3603,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.1",
+      "quotations": [
+        "Lev 5:20",
+        "Lev 5:21",
+        "2Cor 3:17",
+        "John 4:24",
+        "John 6:63"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Holy Spirit"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776340657872,
+        "edited": 1776340657872
+      }
+    },
+    {
+      "id": 3604,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.2",
+      "quotations": [
+        "Lev 5:20",
+        "Lev 5:21",
+        "Lev 5:22",
+        "Lev 5:23",
+        "Lev 5:24",
+        "Lev 5:25",
+        "Eph 4:20",
+        "Eph 4:21",
+        "1Tim 1:9",
+        "1Tim 1:10"
+      ],
+      "doctrines": [
+        "Sin/Transgression"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776340892090,
+        "edited": 1776340892090
+      }
+    },
+    {
+      "id": 3605,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.3",
+      "quotations": [
+        "Lev 5:23",
+        "Gen 1:26",
+        "Gen 1:27",
+        "Luke 6:36",
+        "2Tim 1:14",
+        "Matt 5:48",
+        "Matt 5:8",
+        "1Tim 6:20"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Intelligence",
+        "Image and likeness",
+        "Virtue",
+        "Vices",
+        "Participation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776341087007,
+        "edited": 1776341087007
+      }
+    },
+    {
+      "id": 3606,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.4",
+      "quotations": [
+        "Lev 5:21",
+        "1Thess 4:6",
+        "Phil 2:1",
+        "Phil 2:2",
+        "1John 1:3",
+        "2Pet 1:4",
+        "2Cor 6:14",
+        "Rom 13:12",
+        "Col 1:12",
+        "Col 1:20",
+        "Luke 15:10",
+        "Matt 22:30",
+        "Matt 13:11"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Saints/Sanctification",
+        "Trinity",
+        "Holy Spirit",
+        "Light",
+        "Participation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776341376505,
+        "edited": 1776341376505
+      }
+    },
+    {
+      "id": 3607,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.4",
+      "quotations": [
+        "Lev 5:21",
+        "Matt 11:12",
+        "Is 3:14",
+        "1Cor 6:9",
+        "1Cor 6:10",
+        "Matt 9:17"
+      ],
+      "doctrines": [
+        "Ecclesiastical Tradition",
+        "Mysteries"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776341477014,
+        "edited": 1776341477014
+      }
+    },
+    {
+      "id": 3608,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.5",
+      "quotations": [
+        "Lev 5:21",
+        "Lev 5:22",
+        "Ezek 27:36"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Conversion",
+        "Repentance"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776341695838,
+        "edited": 1776341695838
+      }
+    },
+    {
+      "id": 3609,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.5",
+      "quotations": [
+        "Lev 5:25",
+        "Lev 5:26",
+        "Lev 5:15",
+        "1Sam 2:25",
+        "John 5:16",
+        "Matt 25:9",
+        "Is 1:11",
+        "Is 1:16",
+        "Is 1:17",
+        "Is 1:18",
+        "Dan 3:38",
+        "Dan 3:39",
+        "Dan 3:40",
+        "Ps 50:19",
+        "1Sam 15:22"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Redemption/Justification",
+        "Sacred Scriptures",
+        "Prophets/Prophecy",
+        "Apostles/Disciples"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776342021742,
+        "edited": 1776342021742
+      }
+    },
+    {
+      "id": 3610,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.6",
+      "quotations": [
+        "Lev 6:1",
+        "Lev 6:2",
+        "Lev 6:3",
+        "Lev 6:4",
+        "Lev 6:5",
+        "Lev 6:6",
+        "Is 61:6",
+        "1Pet 6:9",
+        "Luke 12:35",
+        "2Cor 5:17"
+      ],
+      "doctrines": [
+        "Faith",
+        "Continence/Self Control"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776345863122,
+        "edited": 1776345863122
+      }
+    },
+    {
+      "id": 3611,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.6",
+      "quotations": [
+        "Exod 30:29",
+        "1Cor 2:6",
+        "1Cor 2:8",
+        "Num 11:24",
+        "1Cor 2:2",
+        "1Cor 3:1",
+        "1Cor 3:2",
+        "Rom 14:2",
+        "Heb 5:14",
+        "Heb 9:11",
+        "Matt 13:43",
+        "Mark 4:34",
+        "1Cor 2:6",
+        "Matt 13:11",
+        "Matt 13:13"
+      ],
+      "doctrines": [
+        "Spiritual Christians",
+        "Simple Christians",
+        "Economy/Salvific Plan"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776346037783,
+        "edited": 1776346037783
+      }
+    },
+    {
+      "id": 3612,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.7",
+      "quotations": [
+        "Lev 6:7",
+        "Lev 6:8",
+        "Lev 6:9",
+        "Lev 6:10",
+        "Lev 6:11",
+        "Lev 6:13",
+        "Rom 2:28",
+        "2Cor 3:14"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Literal Exegesis",
+        "Gospel",
+        "Jews"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776346543130,
+        "edited": 1776346543130
+      }
+    },
+    {
+      "id": 3613,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.8",
+      "quotations": [
+        "1Cor 5:7",
+        "Mark 5:25",
+        "Acts 15:19",
+        "Lev 6:11",
+        "Titus 3:3",
+        "Titus 3:4",
+        "Titus 3:5",
+        "1Cor 6:11",
+        "John 1:14",
+        "Heb 5:14",
+        "Num 1:2",
+        "Lev 6:9",
+        "1Cor 13:11"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Saints/Sanctification",
+        "Perfection",
+        "Christ/Saviour",
+        "Sacrifice",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776348047046,
+        "edited": 1776348047046
+      }
+    },
+    {
+      "id": 3614,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.9",
+      "quotations": [
+        "Lev 6:8",
+        "Phil 4:18",
+        "2Cor 9:6",
+        "Ps 1:2",
+        "Lev 6:9",
+        "Deut 32:7",
+        "1Cor 5:8"
+      ],
+      "doctrines": [
+        "Liturgy",
+        "Teaching",
+        "Sacred Scriptures",
+        "Sacrifice"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776348282031,
+        "edited": 1776348282031
+      }
+    },
+    {
+      "id": 3615,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.10",
+      "quotations": [
+        "Lev 6:19",
+        "Lev 6:20",
+        "Lev 6:21",
+        "Lev 6:22",
+        "Lev 6:23",
+        "1Cor 10:11",
+        "Rom 7:4",
+        "Matt 14:15",
+        "Rev 14:6",
+        "Rom 7:14",
+        "Lev 6:16"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Law",
+        "Gospel",
+        "Sacrifice",
+        "Doctrine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776348661616,
+        "edited": 1776348733056
+      }
+    },
+    {
+      "id": 3616,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 4.10",
+      "quotations": [
+        "Matt 24:35",
+        "1Pet 4:11",
+        "Rev 1:6"
+      ],
+      "doctrines": [
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776348722577,
+        "edited": 1776348722577
+      }
+    },
+    {
+      "id": 3617,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 5.1",
+      "quotations": [
+        "Lev 6:17",
+        "Lev 6:18",
+        "Lev 6:19",
+        "Lev 6:20",
+        "Lev 6:21",
+        "Lev 6:22",
+        "Lev 6:23",
+        "Rom 2:18",
+        "Rom 2:29",
+        "Gen 1:1",
+        "2Cor 4:18",
+        "Rom 1:20",
+        "Heb 8:5",
+        "Luke 18:30"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Literal Exegesis",
+        "Jews"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776413610736,
+        "edited": 1776413610736
+      }
+    },
+    {
+      "id": 3618,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.2",
+      "quotations": [
+        "Lev 6:17",
+        "Lev 6:18",
+        "Lev 8:29",
+        "Exod 33:1",
+        "Lev 2:3",
+        "Lev 10:14",
+        "Lev 7:19",
+        "Lev 1:3",
+        "Lev 1:6",
+        "Lev 1:10",
+        "Lev 5:10",
+        "Rom 2:29",
+        "Gen 15:5",
+        "Matt 5:14",
+        "Jer 23:24",
+        "Lev 26:11",
+        "2Cor 6:16",
+        "2Cor 6:18",
+        "Ps 32:6",
+        "Wis 1:7",
+        "Matt 28:20",
+        "Joel 2:28"
+      ],
+      "doctrines": [
+        "Soul",
+        "Senses (Spiritual and Human)",
+        "Law",
+        "Trinity",
+        "Sacrifice",
+        "Participation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776414358680,
+        "edited": 1776414358680
+      }
+    },
+    {
+      "id": 3619,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.3",
+      "quotations": [
+        "Lev 6:18",
+        "1Thess 1:9",
+        "Ps 50:19",
+        "Lev 6:25",
+        "Gen 4:16",
+        "Gen 4:14",
+        "John 3:18",
+        "Lev 6:19",
+        "Hos 4:8",
+        "Heb 9:14",
+        "Ps 110:4",
+        "Deut 4:24",
+        "1Cor 3:12",
+        "Is 1:25",
+        "Matt 8:17",
+        "Ps 49:15",
+        "Luke 12:49",
+        "Gen 3:18",
+        "Deut 32:22"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Redemption/Justification",
+        "Christ/Saviour",
+        "Sacrifice",
+        "Repentance"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776414841360,
+        "edited": 1776414841360
+      }
+    },
+    {
+      "id": 3620,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.3",
+      "quotations": [
+        "Lev 6:19",
+        "Hos 4:8",
+        "Exod 3:5",
+        "1Tim 1:5",
+        "Gen 3:17",
+        "1Tim 1:10",
+        "Lev 6:19",
+        "Heb 9:4",
+        "Heb 9:7",
+        "Deut 23:9"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Redemption/Justification",
+        "Church",
+        "Ecclesiastical Ministers",
+        "Saints/Sanctification",
+        "Sacrifice",
+        "Mysteries"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776415158872,
+        "edited": 1776415158872
+      }
+    },
+    {
+      "id": 3621,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.4",
+      "quotations": [
+        "Lev 7:1",
+        "Lev 6:17",
+        "Lev 7:7",
+        "1John 5:16",
+        "1John 5:17",
+        "Lev 7:3",
+        "Ps 103:1",
+        "Eph 5:2"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Saints/Sanctification"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776415467707,
+        "edited": 1776415467707
+      }
+    },
+    {
+      "id": 3622,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.4",
+      "quotations": [
+        "Lev 7:7",
+        "Lev 7:8",
+        "Lev 7:9",
+        "1Cor 3:14",
+        "Gen 38:7"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Conversion",
+        "Ecclesiastical Ministers",
+        "Saints/Sanctification"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776415583359,
+        "edited": 1776415583359
+      }
+    },
+    {
+      "id": 3623,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.5",
+      "quotations": [
+        "Lev 7:9",
+        "Eph 4:20",
+        "Ps 29:3",
+        "Luke 11:10",
+        "Hos 7:4",
+        "Hos 7:6",
+        "Luke 12:49",
+        "Ezek 1:10",
+        "Lev 8:26",
+        "Luke 11:5",
+        "Rom 13:12"
+      ],
+      "doctrines": [
+        "Intelligence",
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Literal Exegesis"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776416866407,
+        "edited": 1776416866407
+      }
+    },
+    {
+      "id": 3624,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.6",
+      "quotations": [
+        "1Cor 2:12",
+        "Lev 7:10",
+        "Lev 5:11",
+        "Ps 44:8",
+        "2Cor 12:21",
+        "Lev 2:9",
+        "Ps 38:5",
+        "Lev 7:1",
+        "1Cor 2:16"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Sacrifice",
+        "Mysteries"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776417053208,
+        "edited": 1776417053208
+      }
+    },
+    {
+      "id": 3625,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.7",
+      "quotations": [
+        "Lev 7:11",
+        "Lev 7:12",
+        "Lev 7:13",
+        "Lev 7:14",
+        "Lev 7:15",
+        "Lev 7:16",
+        "Ps 49:23",
+        "Matt 5:16",
+        "Rom 2:24",
+        "Is 52:5",
+        "Lev 7:7",
+        "Lev 7:4"
+      ],
+      "doctrines": [
+        "Conversion",
+        "Glory"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776417353867,
+        "edited": 1776417353867
+      }
+    },
+    {
+      "id": 3626,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.7",
+      "quotations": [
+        "Lev 7:15",
+        "Heb 5:14",
+        "1Cor 15:33",
+        "Titus 1:2",
+        "1Cor 3:2",
+        "1Cor 3:3",
+        "Rom 14:2",
+        "Lev 7:13",
+        "Mark 7:3",
+        "Matt 16:6"
+      ],
+      "doctrines": [
+        "Ecclesiastical Ministers",
+        "Food/Nourishment",
+        "Greek Paideia",
+        "Doctrine"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776417610754,
+        "edited": 1776417610754
+      }
+    },
+    {
+      "id": 3627,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.8",
+      "quotations": [
+        "Lev 7:15",
+        "Lev 19:6",
+        "Lev 4:8",
+        "Exod 12:6",
+        "Exod 12:10",
+        "Ps 51:23",
+        "Ezek 4:15",
+        "Ezek 4:14",
+        "Lev 2:14",
+        "Ps 50:23",
+        "1Cor 14:14",
+        "1Cor 14:15",
+        "Matt 26:26",
+        "Luke 9:3",
+        "Josh 9:11",
+        "Josh 9:33",
+        "Lev 19:6",
+        "Lev 25:13",
+        "Lev 26:10"
+      ],
+      "doctrines": [
+        "Ecclesiastical Ministers",
+        "Teaching",
+        "Grace",
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Progress"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776417861357,
+        "edited": 1776418096899
+      }
+    },
+    {
+      "id": 3628,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.9",
+      "quotations": [
+        "Lev 7:16",
+        "Lev 7:17",
+        "Lev 7:18",
+        "Ps 109:7",
+        "Ps 19:13",
+        "1Cor 13:9",
+        "1Cor 13:10",
+        "Lev 7:17",
+        "1Tim 1:7"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Sacred Scriptures",
+        "Mysteries"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776418316589,
+        "edited": 1776418316589
+      }
+    },
+    {
+      "id": 3629,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.10",
+      "quotations": [
+        "Lev 7:19",
+        "Lev 7:20",
+        "Lev 7:21",
+        "Heb 5:14",
+        "1Cor 5:8"
+      ],
+      "doctrines": [
+        "Rule of faith",
+        "Trinity",
+        "Doctrine",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776418750150,
+        "edited": 1776418750150
+      }
+    },
+    {
+      "id": 3630,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.10",
+      "quotations": [
+        "Lev 7:20",
+        "Num 11:18",
+        "Lev 7:21",
+        "1John 3:15",
+        "Lev 5:2",
+        "1Cor 5:11"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Intelligence",
+        "Saints/Sanctification",
+        "Knowledge"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776419248641,
+        "edited": 1776419248641
+      }
+    },
+    {
+      "id": 3631,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.11",
+      "quotations": [
+        "Lev 7:22",
+        "Lev 7:23",
+        "Lev 7:24",
+        "Lev 7:25",
+        "Lev 7:26",
+        "Lev 7:27",
+        "Lev 4:3",
+        "Is 10:20",
+        "Rom 11:25",
+        "John 15:13",
+        "Matt 18:6",
+        "Rom 11:19",
+        "Rom 11:18",
+        "Rom 11:22"
+      ],
+      "doctrines": [
+        "Church",
+        "Saints/Sanctification",
+        "Israel",
+        "Jesus as a man/Jesus' Soul"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776419470020,
+        "edited": 1776419470020
+      }
+    },
+    {
+      "id": 3632,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.12",
+      "quotations": [
+        "Lev 7:28",
+        "Lev 7:29",
+        "Lev 7:30",
+        "Lev 7:31",
+        "Lev 7:32",
+        "Lev 7:33",
+        "Lev 7:34",
+        "Matt 8:3",
+        "Matt 8:4",
+        "Jas 3:17",
+        "Gal 5:22",
+        "Ps 19:4",
+        "Mark 7:21"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Virtue",
+        "Merit",
+        "Vices"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776419935078,
+        "edited": 1776419935078
+      }
+    },
+    {
+      "id": 3633,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.12",
+      "quotations": [
+        "Lev 7:30",
+        "Lev 7:32",
+        "Lev 7:38",
+        "Matt 5:8"
+      ],
+      "doctrines": [
+        "Conversion",
+        "Church",
+        "Ecclesiastical Ministers",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776420118904,
+        "edited": 1776420118904
+      }
+    },
+    {
+      "id": 3634,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 5.12",
+      "quotations": [
+        "Lev 7:34",
+        "Rom 13:12",
+        "2Thess 3:11",
+        "Is 52:11",
+        "Acts 10:15",
+        "Acts 10:28",
+        "Mark 5:9",
+        "1Pet 4:11",
+        "Rev 1:6"
+      ],
+      "doctrines": [
+        "Demons",
+        "Church",
+        "Grace",
+        "Saints/Sanctification",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776420682899,
+        "edited": 1776420682899
+      }
+    },
+    {
+      "id": 3635,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 6.1",
+      "quotations": [
+        "2Cor 3:14",
+        "2Cor 3:16",
+        "Ps 1:2",
+        "2Cor 3:7",
+        "Eph 6:19"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Invocation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776420987956,
+        "edited": 1776420987956
+      }
+    },
+    {
+      "id": 3636,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 6.2",
+      "quotations": [
+        "Lev 7:34",
+        "Lev 7:35",
+        "Lev 5:36",
+        "Lev 7:37",
+        "Lev 7:38"
+      ],
+      "doctrines": [
+        "Christ/Saviour"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776424719015,
+        "edited": 1776424719015
+      }
+    },
+    {
+      "id": 3637,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 6.2",
+      "quotations": [
+        "Lev 8:1",
+        "Lev 8:2",
+        "Lev 8:3",
+        "Lev 8:4",
+        "Lev 8:5",
+        "Lev 8:6",
+        "Lev 8:7",
+        "Lev 8:8",
+        "Lev 8:9",
+        "1Pet 2:9",
+        "Is 1:16",
+        "Rom 13:14",
+        "Luke 16:29",
+        "Is 66:1",
+        "Is 66:2",
+        "Mark 9:2",
+        "1Tim 6:15",
+        "Gen 3:21",
+        "Exod 20:26",
+        "2Cor 5:4"
+      ],
+      "doctrines": [
+        "Sin/Transgression",
+        "Redemption/Justification",
+        "Conversion",
+        "Baptism",
+        "Grace",
+        "Sacred Scriptures",
+        "Law"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776425163621,
+        "edited": 1776425163621
+      }
+    },
+    {
+      "id": 3638,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 6.3",
+      "quotations": [
+        "Lev 8:4",
+        "Lev 8:5",
+        "1Tim 3:7",
+        "Lev 8:7",
+        "Luke 3:11",
+        "Matt 5:21",
+        "Matt 5:22",
+        "Matt 5:27",
+        "Matt 5:28",
+        "Gal 5:2",
+        "Col 2:16",
+        "Titus 1:14",
+        "Acts 15:10",
+        "Matt 5:19"
+      ],
+      "doctrines": [
+        "Ecclesiastical Ministers",
+        "Teaching",
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Literal Exegesis",
+        "Knowledge"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776425568287,
+        "edited": 1776425568287
+      }
+    },
+    {
+      "id": 3639,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 6.4",
+      "quotations": [
+        "Lev 8:7",
+        "Lev 8:8",
+        "Lev 8:9",
+        "1Cor 7:34",
+        "Hos 10:12"
+      ],
+      "doctrines": [
+        "Ecclesiastical Ministers",
+        "Teaching",
+        "Intelligence",
+        "Virtue",
+        "Merit",
+        "Truth"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776425846344,
+        "edited": 1776425884778
+      }
+    },
+    {
+      "id": 3640,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 6.5",
+      "quotations": [
+        "Lev 8:9",
+        "Exod 28:32",
+        "Exod 28:36",
+        "1Cor 11:3",
+        "Col 2:19",
+        "Rom 2:13",
+        "Lev 8:7",
+        "2Cor 6:16",
+        "1Cor 3:16"
+      ],
+      "doctrines": [
+        "Liturgy",
+        "Ecclesiastical Ministers",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Knowledge",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776426573142,
+        "edited": 1776426573142
+      }
+    },
+    {
+      "id": 3641,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev 6.6",
+      "quotations": [
+        "Lev 8:13",
+        "Lev 8:7",
+        "Exod 28:2",
+        "Exod 28:42",
+        "Gal 4:19",
+        "1Cor 4:15",
+        "Acts 16:16",
+        "Matt 7:6",
+        "Lev 10:7",
+        "Ezek 13:2",
+        "Exod 17:11",
+        "2Tim 3:12",
+        "Ps 1:2",
+        "1Pet 4:11",
+        "Rev 1:6"
+      ],
+      "doctrines": [
+        "Ecclesiastical Ministers",
+        "Teaching",
+        "Merit",
+        "Economy/Salvific Plan",
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776427262963,
+        "edited": 1776427262963
+      }
+    },
+    {
+      "id": 3642,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.1",
+      "quotations": [
+        "Lev 10:8",
+        "Lev 10:9",
+        "Lev 10:10",
+        "Lev 10:11",
+        "Gen 27:27",
+        "Lev 9:7",
+        "Deut 10:9",
+        "Num 18:20",
+        "Titus 1:7",
+        "Eph 5:18",
+        "Luke 21:34",
+        "2Cor 12:10",
+        "2Cor 4:16"
+      ],
+      "doctrines": [
+        "Church",
+        "Ecclesiastical Ministers",
+        "Continence/Self Control",
+        "Emotions/Passions",
+        "Food/Nourishment"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776434496749,
+        "edited": 1776434496749
+      }
+    },
+    {
+      "id": 3643,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.1",
+      "quotations": [
+        "Heb 9:11",
+        "John 13:33",
+        "Lev 10:9",
+        "Eph 5:2",
+        "Gal 1:4",
+        "Matt 11:9",
+        "Matt 26:27",
+        "Matt 26:29",
+        "Ps 22:5",
+        "Ps 35:9",
+        "Jer 38:14",
+        "Is 65:13",
+        "1Thess 5:7"
+      ],
+      "doctrines": [
+        "Food/Nourishment",
+        "Christ/Saviour",
+        "Jesus as a man/Jesus' Soul",
+        "Happiness"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776435186929,
+        "edited": 1776435186929
+      }
+    },
+    {
+      "id": 3644,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.2",
+      "quotations": [
+        "Matt 26:29",
+        "1John 2:1",
+        "1John 2:2",
+        "Lev 10:9",
+        "2Cor 12:21",
+        "Col 1:13",
+        "Phil 2:7",
+        "1Cor 13:5",
+        "Phil 2:6",
+        "Matt 23:37",
+        "Ps 37:5",
+        "Heb 9:24",
+        "Heb 7:25",
+        "Ps 102:8",
+        "Rom 12:15",
+        "2Cor 12:21",
+        "John 15:5",
+        "John 6:55",
+        "Gen 49:11",
+        "1Cor 15:27",
+        "1Cor 15:28",
+        "Gal 5:17",
+        "John 17:4",
+        "Ps 50:10",
+        "Rom 6:6",
+        "Lev 6:30",
+        "Is 35:10"
+      ],
+      "doctrines": [
+        "Apokatastasis/Restoration",
+        "Sin/Transgression",
+        "Love",
+        "Saints/Sanctification",
+        "Food/Nourishment",
+        "Christ/Saviour",
+        "Economy/Salvific Plan",
+        "Happiness"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776435832418,
+        "edited": 1776435832418
+      }
+    },
+    {
+      "id": 3645,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.2",
+      "quotations": [
+        "Lev 10:9",
+        "1Tim 2:7",
+        "Heb 11:39",
+        "Heb 11:40",
+        "Rom 12:5",
+        "1Cor 12:20",
+        "1Cor 12:21",
+        "Ezek 37:7",
+        "Ezek 37:8",
+        "Ezek 37:11",
+        "Eph 4:15",
+        "Eph 4:16",
+        "John 17:5",
+        "Lev 26:12",
+        "Phil 3:15",
+        "Rom 5:8",
+        "1Cor 13:9",
+        "Gal 2:20",
+        "1Cor 12:27",
+        "Ezek 37:7",
+        "Ezek 37:8",
+        "Ps 34:10",
+        "John 11:52",
+        "Ps 140:7",
+        "Matt 9:17",
+        "2Pet 3:13",
+        "Eph 2:15",
+        "Rev 5:9",
+        "Col 3:9",
+        "2Cor 4:16"
+      ],
+      "doctrines": [
+        "Eschatology",
+        "Apokatastasis/Restoration",
+        "Church",
+        "Saints/Sanctification",
+        "Happiness"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776436345946,
+        "edited": 1776436345946
+      }
+    },
+    {
+      "id": 3646,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.3",
+      "quotations": [
+        "Lev 10:14",
+        "Lev 10:15",
+        "Wis 7:17",
+        "Wis 7:18",
+        "Wis 7:19",
+        "Matt 11:27",
+        "John 4:34",
+        "2Tim 2:15",
+        "John 10:32"
+      ],
+      "doctrines": [
+        "Creation/Nature",
+        "Trinity",
+        "Substance/Ousia",
+        "God the Father",
+        "God’s Will",
+        "God the Son",
+        "Knowledge",
+        "Participation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776687121932,
+        "edited": 1776687121932
+      }
+    },
+    {
+      "id": 3647,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.4",
+      "quotations": [
+        "Ps 63:7",
+        "1Cor 10:1",
+        "1Cor 10:2",
+        "1Cor 10:3",
+        "1Cor 10:4",
+        "Phil 3:5",
+        "Acts 22:3",
+        "Col 2:17",
+        "Ps 72:78",
+        "Prov 27:1"
+      ],
+      "doctrines": [
+        "Food/Nourishment",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776688406360,
+        "edited": 1776688406360
+      }
+    },
+    {
+      "id": 3648,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.4",
+      "quotations": [
+        "Acts 10:9",
+        "Rom 6:8",
+        "Col 3:1",
+        "Col 3:2",
+        "Matt 24:17",
+        "Acts 10:11",
+        "Acts 10:12",
+        "Acts 10:13",
+        "Acts 10:14",
+        "Acts 10:15",
+        "Acts 10:16",
+        "Acts 10:17",
+        "Acts 10:6",
+        "Job 10:11",
+        "Acts 10:21",
+        "Acts 10:27",
+        "Acts 10:28"
+      ],
+      "doctrines": [
+        "Food/Nourishment",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Spiritual Geography",
+        "Trinity"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776688601532,
+        "edited": 1776688601532
+      }
+    },
+    {
+      "id": 3649,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.5",
+      "quotations": [
+        "Matt 13:47",
+        "Matt 13:48",
+        "1Cor 5:11",
+        "John 6:53",
+        "John 6:55",
+        "John 6:56",
+        "John 6:60",
+        "John 6:66",
+        "John 1:14",
+        "1Cor 14:38",
+        "2Cor 3:6",
+        "Luke 22:36",
+        "1Cor 2:15",
+        "Luke 6:45"
+      ],
+      "doctrines": [
+        "Teaching",
+        "Food/Nourishment",
+        "Senses (Spiritual and Human)",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Gospel"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776756958482,
+        "edited": 1776756958482
+      }
+    },
+    {
+      "id": 3650,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.6",
+      "quotations": [
+        "Lev 11:3",
+        "Lev 11:4",
+        "Lev 11:5",
+        "Lev 11:6",
+        "Lev 11:7",
+        "Ps 1:2",
+        "Lev 11:3",
+        "Eph 2:7",
+        "Matt 7:13",
+        "Matt 7:14",
+        "Matt 23:3",
+        "Ps 49:16",
+        "Ps 49:17",
+        "Deut 21:10",
+        "Deut 21:11",
+        "Deut 21:12",
+        "Deut 21:13",
+        "2Cor 10:4",
+        "Heb 9:14"
+      ],
+      "doctrines": [
+        "Intelligence",
+        "Merit",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Heresies",
+        "Philosophy"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776757431209,
+        "edited": 1776757431209
+      }
+    },
+    {
+      "id": 3651,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.7",
+      "quotations": [
+        "Lev 11:9",
+        "Matt 13:47",
+        "Matt 13:48",
+        "Eph 4:22"
+      ],
+      "doctrines": [
+        "Faith",
+        "Saints/Sanctification"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776757631271,
+        "edited": 1776757631271
+      }
+    },
+    {
+      "id": 3652,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.7",
+      "quotations": [
+        "Lev 11:13",
+        "John 3:20",
+        "Lev 11:17",
+        "Lev 11:19"
+      ],
+      "doctrines": [
+        "Merit",
+        "Heresies"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776757737645,
+        "edited": 1776757737645
+      }
+    },
+    {
+      "id": 3653,
+      "work": "Homiliae in Leviticum (Hom.Lev.)",
+      "reference": "Hom.Lev. 7.7",
+      "quotations": [
+        "1Pet 4:11",
+        "Rev 1:6"
+      ],
+      "doctrines": [
+        "Exhortation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776757765291,
+        "edited": 1776757765291
+      }
+    },
+    {
+      "id": 3654,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 1.2.7.1",
+      "quotations": [
+        "Exod 12:11",
+        "Heb 7:5",
+        "Heb 7:9",
+        "Heb 7:10",
+        "Job 40:16",
+        "Exod 12:21",
+        "1Cor 9:25",
+        "Exod 12:10",
+        "Exod 12:46",
+        "Matt 3:4",
+        "1Cor 7:29"
+      ],
+      "doctrines": [
+        "Continence/Self Control",
+        "Physiology/Medicine",
+        "Sex"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776758628520,
+        "edited": 1776758628520
+      }
+    },
+    {
+      "id": 3655,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 1.2.7.2",
+      "quotations": [
+        "Exod 12:11",
+        "Exod 3:5",
+        "Eph 6:15",
+        "Rom 13:12",
+        "Col 3:5",
+        "Gal 5:19",
+        "Gal 5:20"
+      ],
+      "doctrines": [
+        "Eschatology",
+        "Body and corporeality",
+        "Spiritual Geography",
+        "Easter/Passover"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776758820890,
+        "edited": 1776758820890
+      }
+    },
+    {
+      "id": 3656,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 1.2.7.3",
+      "quotations": [
+        "Exod 3:5",
+        "Luke 9:3",
+        "Mark 6:9",
+        "Matt 10:10",
+        "Eph 6:14",
+        "Eph 6:17",
+        "Eph 6:15",
+        "Prov 13:24"
+      ],
+      "doctrines": [
+        "Saints/Sanctification",
+        "Continence/Self Control"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776758969778,
+        "edited": 1776758969778
+      }
+    },
+    {
+      "id": 3657,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 2.3.1",
+      "quotations": [
+        "Rom 3:5",
+        "Rom 2:8",
+        "1Cor 10:11",
+        "John 5:39",
+        "Exod 12:14",
+        "Exod 12:24",
+        "1Cor 12:13"
+      ],
+      "doctrines": [
+        "Sacred Scriptures",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "History/Historical Events",
+        "Easter/Passover"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776759127971,
+        "edited": 1776759127971
+      }
+    },
+    {
+      "id": 3658,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 2.3.2",
+      "quotations": [
+        "John 1:12",
+        "John 1:13",
+        "Eph 1:5",
+        "Heb 2:12",
+        "Ps 21:23"
+      ],
+      "doctrines": [
+        "Spiritual Christians",
+        "Spiritual exegesis (Allegory, Psychology, Typology, Analogy, Anagogy)",
+        "Participation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776759202621,
+        "edited": 1776759202621
+      }
+    },
+    {
+      "id": 3659,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 2.4.1",
+      "quotations": [
+        "Is 53:7",
+        "Is 53:8",
+        "Is 53:9",
+        "Lev 23:12",
+        "1Pet 1:19",
+        "Acts 8:32",
+        "Acts 8:33",
+        "Is 53:4",
+        "Is 53:5",
+        "1Pet 2:24",
+        "Exod 12:5",
+        "1Cor 10:11",
+        "Matt 5:17",
+        "1Pet 1:19",
+        "Lev 23:5",
+        "Num 28:16",
+        "Rev 3:14",
+        "Col 1:15",
+        "Col 1:16",
+        "Exod 12:3"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Creation/Nature",
+        "Passion/Cross",
+        "Sacrifice",
+        "Easter/Passover"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776763268115,
+        "edited": 1776763288148
+      }
+    },
+    {
+      "id": 3660,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 2.4.2",
+      "quotations": [
+        "Exod 12:6",
+        "1Cor 10:11",
+        "Exod 12:7",
+        "Exod 12:22",
+        "Exod 5:2",
+        "Is 14:13",
+        "Is 14:14",
+        "Eph 2:19",
+        "Gen 12:10",
+        "Gen 42:5",
+        "Gen 15:13",
+        "Luke 23:24",
+        "John 18:14",
+        "John 11:50",
+        "Luke 13:33"
+      ],
+      "doctrines": [
+        "Eschatology",
+        "Intelligence",
+        "Saints/Sanctification",
+        "Emotions/Passions",
+        "Knowledge",
+        "Power of God"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776763693233,
+        "edited": 1776763693233
+      }
+    },
+    {
+      "id": 3661,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 2.4.3",
+      "quotations": [
+        "1Cor 9:21",
+        "Rom 2:12",
+        "Wis 18:3",
+        "Wis 19:5",
+        "Exod 12:11",
+        "1Pet 1:17",
+        "John 6:53",
+        "John 13:8",
+        "John 1:29",
+        "Acts 17:26",
+        "John 11:49",
+        "John 11:50",
+        "John 11:51",
+        "Gen 15:13",
+        "1Cor 13:11",
+        "Exod 5:3",
+        "Exod 11.5",
+        "Ps 112:7",
+        "Ps 112:8",
+        "1Sam 2:8",
+        "Deut 16:4",
+        "Exod 3:7",
+        "Exod 3:8",
+        "Heb 9:26",
+        "Eph 2:14",
+        "Eph 2:15",
+        "Col 1:12",
+        "Col 1:13",
+        "Col 2:14",
+        "Col 2:15",
+        "Heb 10:5",
+        "Heb 10:6",
+        "Heb 10:7",
+        "Ps 39:7",
+        "Col 1:20",
+        "Eph 2:16",
+        "Rom 2:8"
+      ],
+      "doctrines": [
+        "Redemption/Justification",
+        "Conversion",
+        "Saints/Sanctification",
+        "Continence/Self Control",
+        "Supersessionism",
+        "Passion/Cross",
+        "Sacrifice",
+        "Easter/Passover"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776764959469,
+        "edited": 1776764959469
+      }
+    },
+    {
+      "id": 3662,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 2.4.4",
+      "quotations": [
+        "Exod 12:22",
+        "John 17:19",
+        "John 17:21",
+        "Is 7:9",
+        "John 6:38",
+        "1Tim 2:6",
+        "Exod 12:11",
+        "John 17:19",
+        "Exod 2:11"
+      ],
+      "doctrines": [
+        "Conversion",
+        "Christ/Saviour",
+        "Easter/Passover"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776765129112,
+        "edited": 1776765129112
+      }
+    },
+    {
+      "id": 3663,
+      "work": "De pascha  (Pasch.)",
+      "reference": "Pasch. 2.4.5",
+      "quotations": [
+        "1Cor 15:55",
+        "1Pet 3:19",
+        "Ps 23:7",
+        "Ps 23:8",
+        "Ps 23:9",
+        "Ps 23:10",
+        "2Cor 5:19",
+        "Col 2:14",
+        "Jer 11:19",
+        "Matt 16:21",
+        "Mark 8:31",
+        "Luke 9:22",
+        "John 16:7",
+        "John 16.12",
+        "John 16:24",
+        "Is 8:18",
+        "Heb 2:13",
+        "Heb 2:15",
+        "Eph 6:12"
+      ],
+      "doctrines": [
+        "Hell/Ades",
+        "Demons",
+        "Redemption/Justification",
+        "Saints/Sanctification",
+        "Christ/Saviour",
+        "Sacrifice",
+        "Incarnation"
+      ],
+      "relatedQuotations": [],
+      "_meta": {
+        "created": 1776765399344,
+        "edited": 1776765399344
       }
     }
   ]
