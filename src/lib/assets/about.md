@@ -6,7 +6,7 @@
 -	Acknowledgements
 
 ## How to cite the database
-Hermanin de Reichenfeld, G., Fog, B. V., (2025) _The Orige.net Project: Digital Exploration of Biblical Quotations in Origen of Alexandria's Exegesis_. [https://ghdr90.github.io/orige-networks/](https://ghdr90.github.io/orige-networks/about).
+Hermanin de Reichenfeld, G., Fog, B. V., (2026) _The Orige.net Project: Digital Exploration of Biblical Quotations in Origen of Alexandria's Exegesis_. [https://ghdr90.github.io/orige-networks/](https://ghdr90.github.io/orige-networks/about).
 
 ## Description of the Project
 _Orige.net_ is an open-access digital platform that applies Network Analysis to biblical quotations and theological concepts within the works of Origen of Alexandria. Conceived and designed by Dr. [Giovanni Hermanin de Reichenfeld](https://pure.au.dk/portal/en/persons/giovanni.hermanin%40cas.au.dk/publications/) as part of his Marie Skłodowska-Curie fellowship (grant no. 101149891 – Orige.net), the project builds a searchable graph database connecting two types of nodes: 
